@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/Kerchak-hash/IntrusionO_Site-web.git/sitemap.xml
+Sitemap: https://kerchak-hash.github.io/IntrusionO_Site-web//sitemap.xml
