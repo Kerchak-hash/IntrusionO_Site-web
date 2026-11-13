@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Intrusion | Cybersécurité, développement et dépannage informatique à Yaoundé</title>
+<meta name="description" data-i18n-meta="metaDesc" content="Intrusion : tests d'intrusion, audit de sécurité, développement d'applications et dépannage informatique à Yaoundé (Fougerolle). Devis avant toute intervention.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="Intrusion">
+<meta name="theme-color" content="#FBF6EE">
+<meta name="geo.region" content="CM-CE">
+<meta name="geo.placename" content="Yaoundé">
+<link rel="canonical" href="https://www.votre-domaine.com/">
+<link rel="alternate" hreflang="fr" href="https://www.votre-domaine.com/">
+<link rel="alternate" hreflang="en" href="https://www.votre-domaine.com/">
+<link rel="alternate" hreflang="x-default" href="https://www.votre-domaine.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Intrusion">
+<meta property="og:title" content="Intrusion | Cybersécurité, développement et dépannage informatique à Yaoundé">
+<meta property="og:description" content="Tests d'intrusion, audit de sécurité, applications sur mesure et dépannage à Yaoundé.">
+<meta property="og:url" content="https://www.votre-domaine.com/">
+<meta property="og:image" content="https://www.votre-domaine.com/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="logo-mark.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"https://www.votre-domaine.com/#entreprise","name":"Intrusion","description":"Cybersécurité, développement d'applications et dépannage informatique à Yaoundé.","url":"https://www.votre-domaine.com/","telephone":["+237693590240","+237622024217"],"email":"ghostkodes@gmail.com","address":{"@type":"PostalAddress","streetAddress":"Fougerolle, à l'Entrée Maïs Bar","addressLocality":"Yaoundé","addressRegion":"Centre","addressCountry":"CM"},"areaServed":[{"@type":"City","name":"Yaoundé"}],"availableLanguage":["French","English"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Services Intrusion","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Tests d'intrusion"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Audit de sécurité"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Développement d'applications et de sites web sur mesure"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Dépannage et réinstallation d'ordinateurs et de téléphones"}}]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Qu'est-ce qu'un test d'intrusion ?","acceptedAnswer":{"@type":"Answer","text":"C'est un examen contrôlé de vos systèmes, réalisé avec votre accord, pour identifier les failles qu'un attaquant pourrait exploiter. Vous recevez ensuite un rapport avec les corrections à appliquer."}},{"@type":"Question","name":"Combien coûte une intervention ?","acceptedAnswer":{"@type":"Answer","text":"Chaque demande fait l'objet d'un devis établi après diagnostic. Aucune intervention n'est engagée sans votre validation."}},{"@type":"Question","name":"Intervenez-vous à distance ?","acceptedAnswer":{"@type":"Answer","text":"Oui, lorsque le problème le permet. Certaines interventions demandent une présence sur place, nous vous le précisons dans le devis."}}]}
+</script>
+<style>
+:root{--paper:#FBF6EE;--surface:#FFFFFF;--ink:#1F1B17;--ink-soft:#5C5249;--line:#E8DCCB;--accent:#B4502A;--accent-ink:#FFFFFF;--signal:#E9A23B;--ease:cubic-bezier(.2,.7,.2,1);color-scheme:light}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--paper:#1A1512;--surface:#241D19;--ink:#F4EDE4;--ink-soft:#B9AB9C;--line:#3A2F28;--accent:#E8875A;--accent-ink:#1A1512;--signal:#F0B455;color-scheme:dark}}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:88px}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:1.0625rem;line-height:1.6;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);overflow-x:hidden}
+h1,h2,h3{font-family:"Newsreader",Georgia,serif;font-weight:600;line-height:1.15;margin:0 0 .5em;letter-spacing:-.01em}
+h1{font-size:clamp(2.4rem,6vw,4.2rem)}h2{font-size:clamp(1.8rem,3.6vw,2.5rem)}h3{font-size:1.35rem}
+p{margin:0 0 1em;max-width:62ch}
+a{color:var(--accent)}
+:focus-visible{outline:3px solid var(--signal);outline-offset:3px;border-radius:4px}
+.wrap{width:min(1080px,100% - 48px);margin-inline:auto}
+header.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:color-mix(in srgb,var(--paper) 90%,transparent);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;height:64px;gap:12px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;color:var(--ink);font-weight:600;font-size:1.15rem}
+.brand .logo{width:28px;height:28px}
+nav.main{display:flex;gap:20px;align-items:center}
+nav.main a{color:var(--ink-soft);text-decoration:none;font-size:.95rem;transition:color .25s}
+nav.main a:hover{color:var(--ink)}
+.lang{display:flex;border:1px solid var(--line);border-radius:999px;padding:3px;background:var(--surface)}
+.lang button{border:0;background:transparent;color:var(--ink-soft);font:inherit;font-size:.85rem;padding:5px 11px;border-radius:999px;cursor:pointer;transition:background .25s,color .25s}
+.lang button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:8px;background:var(--accent);color:var(--accent-ink);text-decoration:none;font-weight:500;border:0;cursor:pointer;font:inherit;transition:transform .25s var(--ease),filter .25s}
+.btn:hover{transform:translateY(-2px);filter:brightness(1.07)}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.hero{position:relative;padding:96px 0 72px;overflow:hidden}
+.hero-grid{position:relative;display:grid;grid-template-columns:1.25fr 1fr;gap:56px;align-items:end}
+.hero p.lead{font-size:1.2rem;color:var(--ink-soft)}
+.threats{display:flex;flex-wrap:wrap;gap:8px;margin:28px 0 36px;padding:0;list-style:none}
+.threats li{border:1px solid var(--line);background:var(--surface);padding:6px 12px;border-radius:999px;font-size:.92rem;color:var(--ink-soft);transition:border-color .3s,color .3s,transform .3s var(--ease)}
+.threats li:hover{border-color:var(--accent);color:var(--ink);transform:translateY(-2px)}
+.hero-actions{display:flex;flex-wrap:wrap;gap:12px}
+.domains{margin-top:40px;padding-top:24px;border-top:1px dashed var(--line);display:flex;flex-wrap:wrap;gap:10px 22px;font-size:.95rem;color:var(--ink-soft)}
+.domains span{display:inline-flex;align-items:center;gap:8px}
+.domains span::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--signal)}
+.readout{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:26px;font-size:.95rem}
+.readout dt{color:var(--ink-soft);font-size:.85rem;margin-top:14px}
+.readout dt:first-child{margin-top:0}
+.readout dd{margin:2px 0 0;font-weight:600}
+.readout a{color:var(--ink);text-decoration:none}
+section{padding:72px 0;border-top:1px solid var(--line)}
+.intro{max-width:640px;color:var(--ink-soft);margin-bottom:40px}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:22px 22px 26px;transition:transform .45s var(--ease),box-shadow .45s var(--ease),border-color .45s}
+.card:hover{transform:translateY(-6px);box-shadow:0 18px 40px -20px color-mix(in srgb,var(--accent) 45%,transparent);border-color:color-mix(in srgb,var(--accent) 40%,var(--line))}
+.card p{color:var(--ink-soft);font-size:.97rem}
+.card ul{padding-left:18px;margin:12px 0 0;color:var(--ink-soft);font-size:.95rem}
+.card li{margin-bottom:5px}
+.stack{font-size:.88rem;color:var(--accent);font-weight:500;margin:-4px 0 14px!important}
+.stage{position:relative;height:150px;border-radius:10px;background:var(--paper);border:1px solid var(--line);margin-bottom:22px;overflow:hidden;display:flex;align-items:center;justify-content:center}
+.stage svg{width:100%;height:100%}
+.stage .f{fill:none;stroke:var(--accent);stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}
+.stage .s{fill:none;stroke:var(--line);stroke-width:1.5}
+.stage .fill{fill:var(--accent)}
+.stage .hl{fill:var(--signal)}
+.term{width:100%;height:100%;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;color:var(--ink-soft);display:flex;flex-direction:column;gap:6px;justify-content:center}
+.term .dots{display:flex;gap:5px;margin-bottom:4px}
+.term .dots i{width:7px;height:7px;border-radius:50%;background:var(--line)}
+.term .ln{white-space:nowrap;overflow:hidden;display:block}
+.term .ok{color:var(--accent)}
+.term .cmd{display:inline-block;overflow:hidden;white-space:nowrap;vertical-align:bottom}
+.caret{display:inline-block;width:7px;height:13px;background:var(--signal);vertical-align:-2px;margin-left:2px}
+.mock{width:100%;height:100%;display:grid;grid-template-rows:auto 1fr 1fr;gap:8px;padding:16px 22px;align-content:center}
+.mock .blk{background:var(--surface);border:1px solid var(--line);border-radius:6px;transform-origin:left center}
+.mock .blk.h{background:var(--accent);border-color:var(--accent);height:14px;width:55%}
+.mock .blk.b{min-height:24px}
+.mock .blk.a{background:var(--signal);border-color:var(--signal);width:34%;height:22px;justify-self:end}
+.steps{position:relative;display:grid;grid-template-columns:repeat(3,1fr);gap:32px}
+.steps::before{content:"";position:absolute;top:9px;left:9px;right:9px;height:2px;background:var(--line)}
+.step{position:relative;padding-top:40px}
+.step .dot{position:absolute;top:0;left:0;width:18px;height:18px;border-radius:50%;background:var(--paper);border:2px solid var(--accent)}
+.step p{color:var(--ink-soft);font-size:.97rem}
+.proj{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:20px;align-items:stretch}
+.proj .card{display:flex;flex-direction:column}
+.lbar{fill:var(--line)}
+.lbar2{fill:var(--accent)}
+@media (prefers-reduced-motion:no-preference){.lbar2{transform-box:fill-box;transform-origin:0 50%;animation:fillBar 3s ease-in-out infinite}}
+@keyframes fillBar{0%,10%{transform:scaleX(0)}70%,100%{transform:scaleX(1)}}
+.proj .card{display:flex;flex-direction:column}
+.proj .tag{display:inline-block;font-size:.8rem;color:var(--accent);border:1px solid color-mix(in srgb,var(--accent) 40%,transparent);border-radius:999px;padding:3px 10px;margin-bottom:12px;align-self:flex-start}
+.proj .soon{border-style:dashed;justify-content:center;align-items:flex-start;color:var(--ink-soft)}
+.contact-grid{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start}
+.contact-card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:32px}
+.contact-card .row{display:flex;flex-direction:column;gap:4px;padding:16px 0;border-bottom:1px solid var(--line)}
+.contact-card .row:last-child{border-bottom:0;padding-bottom:0}
+.contact-card .row span{color:var(--ink-soft);font-size:.9rem}
+.contact-card .row a{font-size:1.1rem;font-weight:500;color:var(--ink);text-decoration:none;transition:color .25s}
+.contact-card .row a:hover{color:var(--accent)}
+form.quote{display:grid;gap:14px}
+form.quote label{display:grid;gap:6px;font-size:.92rem;color:var(--ink-soft)}
+form.quote input,form.quote select,form.quote textarea{font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:11px 12px;width:100%;transition:border-color .25s,box-shadow .25s}
+form.quote input:focus,form.quote select:focus,form.quote textarea:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 4px color-mix(in srgb,var(--accent) 18%,transparent)}
+form.quote textarea{min-height:120px;resize:vertical}
+.note{font-size:.88rem;color:var(--ink-soft);margin-top:6px}
+.faq{max-width:820px}
+.faq details{border-bottom:1px solid var(--line);padding:18px 0}
+.faq details:first-child{border-top:1px solid var(--line)}
+.faq summary{cursor:pointer;font-family:"Newsreader",Georgia,serif;font-size:1.25rem;font-weight:600;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:16px}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";font-family:"IBM Plex Sans",sans-serif;font-size:1.5rem;color:var(--accent);transition:transform .3s var(--ease)}
+.faq details[open] summary::after{transform:rotate(45deg)}
+.faq details p{margin:12px 0 0;color:var(--ink-soft)}
+footer{border-top:1px solid var(--line);padding:32px 0 calc(110px + env(safe-area-inset-bottom,0px));color:var(--ink-soft);font-size:.9rem}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px}
+/* Guide Pac-Man */
+.guide{position:fixed;left:0;bottom:10px;width:44px;height:44px;z-index:20;pointer-events:none}
+.guide .pac{pointer-events:auto;cursor:pointer;width:44px;height:44px;display:block}
+.guide .bubble{position:absolute;bottom:52px;left:0;width:min(260px,70vw);background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:12px;padding:12px 14px;font-size:.9rem;box-shadow:0 10px 30px -12px rgba(0,0,0,.35);opacity:0;transform:translateY(6px);transition:opacity .3s,transform .3s var(--ease);pointer-events:none}
+.guide.open .bubble{opacity:1;transform:none;pointer-events:auto}
+.guide.open .bubble a{color:var(--accent)}
+.track{position:fixed;left:0;right:0;bottom:24px;height:4px;z-index:19;pointer-events:none;background-image:radial-gradient(circle,var(--line) 2px,transparent 2.5px);background-size:22px 4px;background-repeat:repeat-x;opacity:.9}
+@media (prefers-reduced-motion:no-preference){
+  html.js .reveal{opacity:0;transform:translateY(22px);transition:opacity .9s var(--ease),transform .9s var(--ease);transition-delay:var(--d,0ms)}
+  html.js .reveal.in{opacity:1;transform:none}
+  .hero::before{content:"";position:absolute;inset:-40px;background-image:radial-gradient(circle,color-mix(in srgb,var(--accent) 22%,transparent) 1.2px,transparent 1.6px);background-size:28px 28px;animation:drift 24s linear infinite;mask-image:radial-gradient(ellipse at 70% 40%,#000 0,transparent 65%);pointer-events:none}
+  .hero h1,.hero .lead,.hero .threats,.hero .hero-actions,.hero .domains span{animation:rise .9s var(--ease) both}
+  .hero h1{animation-delay:.1s}.hero .lead{animation-delay:.25s}.hero .threats{animation-delay:.35s}.hero .hero-actions{animation-delay:.45s}
+  .hero .domains span{animation-delay:calc(.6s + var(--i) * 90ms)}
+  .hero-grid .readout{animation:rise 1s var(--ease) .5s both}
+  .sec .radar{transform-box:view-box;transform-origin:90px 75px;animation:spin 9s linear infinite}
+  .sec .shield{stroke-dasharray:320;stroke-dashoffset:320;animation:draw 1.6s var(--ease) .3s forwards}
+  .sec .shackle{stroke-dasharray:40;stroke-dashoffset:40;animation:draw .6s var(--ease) 1.7s forwards}
+  .sec .lockbody{transform-box:fill-box;transform-origin:center;opacity:0;animation:pop .5s var(--ease) 2.1s forwards}
+  .sec .attack{animation:attack 4.5s ease-in-out 2.4s infinite;opacity:0}
+  .sec .blocked{transform-box:view-box;transform-origin:118px 75px;opacity:0;animation:blockPulse 4.5s ease-out 2.4s infinite}
+  .sec .node{opacity:.35;animation:nodeOn 4.5s ease-in-out infinite}
+  .sec .node:nth-of-type(2){animation-delay:.6s}.sec .node:nth-of-type(3){animation-delay:1.2s}.sec .node:nth-of-type(4){animation-delay:1.8s}
+  .dev .ln{opacity:0;animation:rise .5s var(--ease) forwards}
+  .dev .l1{animation-delay:.4s}.dev .l2{animation-delay:1.6s}.dev .l3{animation-delay:2.6s}
+  .dev .cmd{width:0;animation:type 1.2s steps(14) .4s forwards}
+  .dev .caret{animation:blink 1s steps(1) infinite}
+  .dev .blk{transform:scaleY(0);animation:grow .6s var(--ease) forwards}
+  .dev .blk.h{animation-delay:.6s}.dev .blk.b{animation-delay:1s}.dev .blk.a{animation-delay:1.4s}
+  .dev .mock{animation:loopMock 6s ease-in-out infinite}
+  .rep .shackle2{transform-box:view-box;animation:unlock 3.6s var(--ease) infinite}
+  .rep .ring{stroke-dasharray:100;stroke-dashoffset:100;animation:ringFill 3.6s var(--ease) infinite}
+  .rep .okcheck{stroke-dasharray:30;stroke-dashoffset:30;animation:draw 3.6s var(--ease) infinite}
+  .rep .gear{transform-box:view-box;transform-origin:200px 75px;animation:spin 4s linear infinite}
+  .med .ecg{stroke-dasharray:260;stroke-dashoffset:260;animation:ecg 3.2s linear infinite}
+  .med .pin{transform-box:view-box;transform-origin:center;animation:pinPulse 2.4s ease-out infinite}
+  .med .pin2{animation-delay:1.2s}
+  .guide.walk{animation:walk 14s linear infinite}
+  .guide .mouth{transform-box:fill-box;transform-origin:left center;animation:chomp .5s steps(2) infinite}
+  .guide .dotbit{animation:bite 14s steps(1) infinite}
+  .track{animation:trackMove 1s linear infinite}
+}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes drift{to{background-position:280px 280px}}
+@keyframes attack{0%{opacity:0;transform:translate(0,0)}10%{opacity:1}60%{opacity:1;transform:translate(-62px,-6px)}70%,100%{opacity:0;transform:translate(-62px,-6px) scale(.2)}}
+@keyframes blockPulse{0%,55%{opacity:0;transform:scale(.6)}65%{opacity:.9}100%{opacity:0;transform:scale(2.4)}}
+@keyframes nodeOn{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes type{to{width:100%}}
+@keyframes blink{50%{opacity:0}}
+@keyframes grow{to{transform:scaleY(1)}}
+@keyframes loopMock{0%,85%,100%{opacity:1}92%{opacity:.5}}
+@keyframes unlock{0%,35%{transform:translateY(0)}55%,100%{transform:translateY(-9px)}}
+@keyframes ringFill{0%{stroke-dashoffset:100}55%,100%{stroke-dashoffset:0}}
+@keyframes ecg{to{stroke-dashoffset:-260}}
+@keyframes pinPulse{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+@keyframes walk{from{transform:translateX(-60px)}to{transform:translateX(calc(100vw + 20px))}}
+@keyframes chomp{from{transform:scaleY(1)}to{transform:scaleY(.15)}}
+@keyframes bite{from{opacity:1}to{opacity:1}}
+@keyframes trackMove{to{background-position:22px 0}}
+@media (max-width:860px){.hero-grid,.contact-grid,.proj{grid-template-columns:1fr;gap:36px}.grid3{grid-template-columns:1fr}.steps{grid-template-columns:1fr;gap:28px}.steps::before{display:none}nav.main a.hide-m{display:none}}
+@media (max-width:520px){.wrap{width:calc(100% - 32px)}.hero{padding:64px 0 48px}.lang button{padding:4px 8px}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#accueil" aria-label="Intrusion">
+      <svg class="logo" viewBox="0 0 64 64" aria-hidden="true"><path d="M52.78 44 A24 24 0 1 1 52.78 20" fill="none" style="stroke:var(--accent)" stroke-width="6" stroke-linecap="round"/><circle cx="38" cy="32" r="6" style="fill:var(--ink)"/></svg>
+      Intrusion
+    </a>
+    <nav class="main" aria-label="Navigation">
+      <a class="hide-m" href="#services" data-i18n="navServices"></a>
+      <a class="hide-m" href="#projets" data-i18n="navProjects"></a>
+      <a class="hide-m" href="#methode" data-i18n="navMethod"></a>
+      <a class="btn" href="#devis" data-i18n="navQuote"></a>
+    </nav>
+    <div class="lang" role="group" aria-label="Langue">
+      <button type="button" data-lang="fr" aria-pressed="false">FR</button>
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+    </div>
+  </div>
+</header>
+
+<main id="accueil">
+  <div class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <h1 data-i18n="heroH1"></h1>
+        <p class="lead" data-i18n="heroLead"></p>
+        <ul class="threats" data-i18n-aria="threatsLabel">
+          <li data-i18n="t1"></li><li data-i18n="t2"></li><li data-i18n="t3"></li><li data-i18n="t4"></li><li data-i18n="t5"></li><li data-i18n="t6"></li>
+        </ul>
+        <div class="hero-actions">
+          <a class="btn" href="#devis" data-i18n="ctaQuote"></a>
+          <a class="btn ghost" href="#services" data-i18n="ctaServices"></a>
+        </div>
+        <div class="domains">
+          <span style="--i:0" data-i18n="d1"></span><span style="--i:1" data-i18n="d2"></span><span style="--i:2" data-i18n="d3"></span><span style="--i:3" data-i18n="d4"></span><span style="--i:4" data-i18n="d5"></span><span style="--i:5" data-i18n="d6"></span>
+        </div>
+      </div>
+      <aside class="readout">
+        <dl style="margin:0">
+          <dt data-i18n="rZone"></dt><dd data-i18n="rZoneV"></dd>
+          <dt data-i18n="rAddr"></dt><dd data-i18n="rAddrV"></dd>
+          <dt data-i18n="rPhone"></dt><dd><a href="tel:+237693590240">693 59 02 40</a> · <a href="tel:+237622024217">622 02 42 17</a></dd>
+          <dt data-i18n="rMail"></dt><dd><a href="mailto:ghostkodes@gmail.com">ghostkodes@gmail.com</a></dd>
+        </dl>
+      </aside>
+    </div>
+  </div>
+
+  <section id="services">
+    <div class="wrap">
+      <div class="reveal"><h2 data-i18n="servicesH2"></h2><p class="intro" data-i18n="servicesIntro"></p></div>
+      <div class="grid3">
+        <article class="card sec reveal" style="--d:0ms">
+          <div class="stage" aria-hidden="true">
+            <svg viewBox="0 0 280 150">
+              <circle class="s radar" cx="90" cy="75" r="62" stroke-dasharray="4 6"/>
+              <path class="f shield" d="M90 36 L120 47 V78 C120 100 108 116 90 124 C72 116 60 100 60 78 V47 Z"/>
+              <g class="lockbody"><rect class="fill" x="82" y="78" width="16" height="14" rx="2.5"/></g>
+              <path class="f shackle" d="M85 78 V71 a5 5 0 0 1 10 0 V78"/>
+              <circle class="f blocked" cx="120" cy="75" r="12"/>
+              <g class="s" stroke-width="1.2"><line x1="190" y1="40" x2="232" y2="70"/><line x1="232" y1="70" x2="200" y2="112"/><line x1="200" y1="112" x2="250" y2="122"/><line x1="190" y1="40" x2="200" y2="112"/></g>
+              <circle class="fill node" cx="190" cy="40" r="5"/><circle class="fill node" cx="232" cy="70" r="5"/><circle class="fill node" cx="200" cy="112" r="5"/><circle class="fill node" cx="250" cy="122" r="5"/>
+              <circle class="hl attack" cx="170" cy="75" r="5"/>
+            </svg>
+          </div>
+          <h3 data-i18n="s1T"></h3>
+          <p class="stack" data-i18n="s1S"></p>
+          <p data-i18n="s1P"></p>
+          <ul><li data-i18n="s1a"></li><li data-i18n="s1b"></li><li data-i18n="s1c"></li></ul>
+        </article>
+        <article class="card dev reveal" style="--d:120ms">
+          <div class="stage" aria-hidden="true">
+            <div class="term">
+              <div class="dots"><i></i><i></i><i></i></div>
+              <span class="ln l1"><span style="color:var(--signal)">$</span> <span class="cmd">npm run build</span></span>
+              <span class="ln l2 ok" data-i18n="devOk"></span>
+              <span class="ln l3"><span data-i18n="devReady"></span><span class="caret"></span></span>
+            </div>
+          </div>
+          <h3 data-i18n="s2T"></h3>
+          <p class="stack" data-i18n="s2S"></p>
+          <p data-i18n="s2P"></p>
+          <ul><li data-i18n="s2a"></li><li data-i18n="s2b"></li><li data-i18n="s2c"></li></ul>
+        </article>
+        <article class="card rep reveal" style="--d:240ms">
+          <div class="stage" aria-hidden="true">
+            <svg viewBox="0 0 280 150">
+              <rect class="s" x="58" y="12" width="92" height="126" rx="14" stroke-width="2"/>
+              <rect x="68" y="24" width="72" height="100" rx="8" fill="var(--surface)"/>
+              <g class="shackle2"><path class="f" d="M96 72 V64 a8 8 0 0 1 16 0 V72"/></g>
+              <rect class="fill" x="90" y="72" width="20" height="16" rx="3"/>
+              <circle class="s" cx="200" cy="75" r="36" stroke-width="5"/>
+              <circle class="ring" cx="200" cy="75" r="36" pathLength="100" fill="none" stroke="var(--accent)" stroke-width="5" stroke-linecap="round" transform="rotate(-90 200 75)"/>
+              <path class="f okcheck" d="M186 75 l10 10 l19 -19" pathLength="30"/>
+            </svg>
+          </div>
+          <h3 data-i18n="s3T"></h3>
+          <p class="stack" data-i18n="s3S"></p>
+          <p data-i18n="s3P"></p>
+          <ul><li data-i18n="s3a"></li><li data-i18n="s3b"></li><li data-i18n="s3c"></li></ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="projets">
+    <div class="wrap">
+      <div class="reveal"><h2 data-i18n="projH2"></h2><p class="intro" data-i18n="projIntro"></p></div>
+      <div class="proj" id="projList"></div>
+    </div>
+  </section>
+
+  <section id="methode">
+    <div class="wrap">
+      <div class="reveal"><h2 data-i18n="methH2"></h2><p class="intro" data-i18n="methIntro"></p></div>
+      <div class="steps">
+        <div class="step reveal" style="--d:0ms"><span class="dot"></span><h3 data-i18n="m1T"></h3><p data-i18n="m1P"></p></div>
+        <div class="step reveal" style="--d:150ms"><span class="dot"></span><h3 data-i18n="m2T"></h3><p data-i18n="m2P"></p></div>
+        <div class="step reveal" style="--d:300ms"><span class="dot"></span><h3 data-i18n="m3T"></h3><p data-i18n="m3P"></p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="wrap contact-grid">
+      <div class="reveal">
+        <h2 data-i18n="contH2"></h2>
+        <p data-i18n="contP"></p>
+        <div class="contact-card" style="margin-top:28px">
+          <div class="row"><span data-i18n="rPhone"></span><a href="tel:+237693590240">693 59 02 40</a><a href="tel:+237622024217">622 02 42 17</a></div>
+          <div class="row"><span>WhatsApp</span><a href="https://wa.me/237693590240" rel="noopener" data-i18n="waLink"></a></div>
+          <div class="row"><span data-i18n="rMail"></span><a href="mailto:ghostkodes@gmail.com">ghostkodes@gmail.com</a></div>
+          <div class="row"><span data-i18n="rAddr"></span><a href="https://www.google.com/maps/search/?api=1&query=Fougerolle+Yaound%C3%A9+Ma%C3%AFs+Bar" rel="noopener" data-i18n="rAddrV"></a></div>
+        </div>
+      </div>
+      <div id="devis" class="contact-card reveal" style="--d:150ms">
+        <h3 data-i18n="quoteH3"></h3>
+        <p class="note" style="margin-top:0" data-i18n="quoteNote"></p>
+        <form class="quote" id="quoteForm">
+          <label><span data-i18n="fName"></span><input type="text" name="nom" required autocomplete="name"></label>
+          <label><span data-i18n="fPhone"></span><input type="tel" name="tel" required autocomplete="tel" placeholder="+237"></label>
+          <label><span data-i18n="fNeed"></span>
+            <select name="service" required>
+              <option value="" data-i18n="fChoose"></option>
+              <option data-i18n="s1T"></option><option data-i18n="s2T"></option><option data-i18n="s3T"></option><option data-i18n="fOther"></option>
+            </select>
+          </label>
+          <label><span data-i18n="fMsg"></span><textarea name="message" required></textarea></label>
+          <button class="btn" type="submit" data-i18n="fSend"></button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq">
+    <div class="wrap">
+      <div class="reveal"><h2 data-i18n="faqH2"></h2></div>
+      <div class="faq reveal">
+        <details><summary data-i18n="q1"></summary><p data-i18n="a1"></p></details>
+        <details><summary data-i18n="q2"></summary><p data-i18n="a2"></p></details>
+        <details><summary data-i18n="q3"></summary><p data-i18n="a3"></p></details>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span data-i18n="foot1"></span>
+    <span data-i18n="rAddrV"></span>
+  </div>
+</footer>
+
+<div class="track" aria-hidden="true"></div>
+<div class="guide" id="guide">
+  <div class="bubble" id="bubble" role="status"></div>
+  <svg class="pac" id="pac" viewBox="0 0 44 44" role="button" tabindex="0" aria-label="Guide du site">
+    <circle cx="22" cy="22" r="20" fill="#E9A23B"/>
+    <path class="mouth" d="M22 22 L44 10 L44 34 Z" fill="var(--paper)"/>
+    <circle cx="20" cy="14" r="2.5" fill="#1F1B17"/>
+  </svg>
+</div>
+
+<script>
+(function(){
+  var T = {
+    fr: {
+      metaDesc: "Intrusion : tests d'intrusion, audit de sécurité, développement d'applications et dépannage informatique à Yaoundé (Fougerolle). Devis avant toute intervention.",
+      navServices: "Services", navProjects: "Projets", navMethod: "Méthode", navQuote: "Demander un devis",
+      heroH1: "Vos appareils et votre internet présentent des risques.",
+      heroLead: "Intrusion protège vos comptes, vos données et vos équipements. Nous testons vos défenses, nous corrigeons les failles et nous remettons en route ce qui ne fonctionne plus.",
+      threatsLabel: "Menaces couvertes",
+      t1: "Comptes piratés", t2: "Virus et rançongiciels", t3: "Arnaques et faux messages", t4: "Données volées", t5: "Appareils bloqués", t6: "Site hors ligne",
+      ctaQuote: "Demander un devis", ctaServices: "Voir les services",
+      d1: "Réseaux", d2: "Serveurs", d3: "Sites web", d4: "Applications", d5: "Ordinateurs", d6: "Téléphones",
+      rZone: "Zone d'intervention", rZoneV: "Yaoundé et environs", rAddr: "Adresse", rAddrV: "Fougerolle, à l'Entrée Maïs Bar",
+      rPhone: "Téléphone", rMail: "Courriel", waLink: "Écrire sur WhatsApp",
+      servicesH2: "Trois domaines, un même objectif : que votre matériel et vos données restent les vôtres.",
+      servicesIntro: "Chaque mission part d'un diagnostic clair et d'un devis avant toute intervention.",
+      s1T: "Cybersécurité", s1S: "Réseaux, serveurs, comptes et données", s1P: "Nous examinons vos réseaux, vos serveurs et vos applications pour trouver les failles avant qu'un attaquant ne les trouve.", s1a: "Tests d'intrusion", s1b: "Audit de sécurité", s1c: "Protection des réseaux et des serveurs",
+      s2T: "Développement", s2S: "Sites, applications et outils métier", s2P: "Sites vitrines, applications et outils métier, conçus pour votre activité et adaptés à votre réalité au Cameroun.", s2a: "Logiciels sur mesure", s2b: "Applications web et mobiles", s2c: "Serveurs et pages web",
+      s3T: "Dépannage et reprogrammation", s3S: "Ordinateurs et téléphones", s3P: "Nous réparons, réinstallons et reconfigurons vos ordinateurs et téléphones, et nous vous aidons à retrouver l'accès à vos appareils lorsque vous en êtes le propriétaire.", s3a: "Réparation et réinstallation de PC", s3b: "Reprise d'accès à vos appareils", s3c: "Reprogrammation",
+      devOk: "✓ pages générées, responsive", devReady: "→ site prêt pour votre domaine",
+      projH2: "Nos projets", projIntro: "Des applications que nous développons et publions, avec une démonstration ou un téléchargement.",
+      p1Tag: "Application native", p1P: "Diagnostic médical intelligent, carte de santé numérique et localisation des centres de santé.",
+      soonTag: "Prochainement", soonT: "Un nouveau projet arrive", soonP: "Nous ajoutons régulièrement de nouvelles applications. Revenez voir ou écrivez-nous pour être informé en premier.",
+      methH2: "Comment nous travaillons", methIntro: "Chaque demande suit le même chemin, pour que vous sachiez toujours où en est votre dossier.",
+      m1T: "Diagnostic", m1P: "Vous nous décrivez le problème. Nous vérifions sur place ou à distance et nous vous expliquons ce que nous avons trouvé.",
+      m2T: "Devis", m2P: "Vous recevez un devis clair, sans frais cachés, que vous validez avant toute intervention.",
+      m3T: "Intervention et suivi", m3P: "Nous corrigeons, nous testons et nous vous remettons un rapport simple, avec les conseils pour éviter que le problème ne revienne.",
+      contH2: "Parlons de votre besoin.", contP: "Appelez-nous, écrivez-nous sur WhatsApp ou envoyez un courriel. Nous répondons en général dans la journée.",
+      quoteH3: "Demander un devis", quoteNote: "Le formulaire ouvre votre messagerie avec les informations déjà remplies. Rien n'est envoyé sans votre accord.",
+      fName: "Nom complet", fPhone: "Téléphone", fNeed: "Votre besoin", fChoose: "Choisissez un service", fOther: "Autre", fMsg: "Décrivez votre demande", fSend: "Préparer mon message",
+      faqH2: "Questions fréquentes",
+      q1: "Qu'est-ce qu'un test d'intrusion ?", a1: "C'est un examen contrôlé de vos systèmes, réalisé avec votre accord, pour identifier les failles qu'un attaquant pourrait exploiter. Vous recevez ensuite un rapport avec les corrections à appliquer.",
+      q2: "Combien coûte une intervention ?", a2: "Chaque demande fait l'objet d'un devis établi après diagnostic. Aucune intervention n'est engagée sans votre validation.",
+      q3: "Intervenez-vous à distance ?", a3: "Oui, lorsque le problème le permet. Certaines interventions demandent une présence sur place, nous vous le précisons dans le devis.",
+      foot1: "© 2026 Intrusion. Yaoundé, Cameroun.",
+      guide: ["Besoin d'un devis ? Le formulaire est ici.", "Vous voulez voir nos projets ? Ils sont juste au-dessus.", "Une question sur la sécurité ? Écrivez-nous sur WhatsApp."],
+      guideLink: "#devis"
+    },
+    en: {
+      metaDesc: "Intrusion: penetration testing, security audits, custom application development and IT repair in Yaoundé, Cameroon. Quotes before any work.",
+      navServices: "Services", navProjects: "Projects", navMethod: "How we work", navQuote: "Request a quote",
+      heroH1: "Your devices and your internet are exposed to risks.",
+      heroLead: "Intrusion protects your accounts, your data and your equipment. We test your defences, fix the weak points and get back on track what no longer works.",
+      threatsLabel: "Threats we cover",
+      t1: "Hacked accounts", t2: "Viruses and ransomware", t3: "Scams and fake messages", t4: "Stolen data", t5: "Locked devices", t6: "Website offline",
+      ctaQuote: "Request a quote", ctaServices: "See our services",
+      d1: "Networks", d2: "Servers", d3: "Websites", d4: "Applications", d5: "Computers", d6: "Phones",
+      rZone: "Service area", rZoneV: "Yaoundé and surroundings", rAddr: "Address", rAddrV: "Fougerolle, at the Maïs Bar entrance",
+      rPhone: "Phone", rMail: "Email", waLink: "Chat on WhatsApp",
+      servicesH2: "Three fields, one goal: your equipment and your data stay yours.",
+      servicesIntro: "Every job starts with a clear diagnosis and a quote before any work begins.",
+      s1T: "Cybersecurity", s1S: "Networks, servers, accounts and data", s1P: "We examine your networks, servers and applications to find weaknesses before an attacker does.", s1a: "Penetration testing", s1b: "Security audit", s1c: "Network and server protection",
+      s2T: "Development", s2S: "Websites, applications and business tools", s2P: "Showcase websites, applications and business tools, built for your activity and your reality in Cameroon.", s2a: "Custom software", s2b: "Web and mobile applications", s2c: "Servers and web pages",
+      s3T: "Repair and reprogramming", s3S: "Computers and phones", s3P: "We repair, reinstall and reconfigure your computers and phones, and help you regain access to your devices when you are the rightful owner.", s3a: "PC repair and reinstallation", s3b: "Regaining access to your devices", s3c: "Reprogramming",
+      devOk: "✓ pages built, responsive", devReady: "→ site ready for your domain",
+      projH2: "Our projects", projIntro: "Applications we build and publish, with a demo or a download.",
+      p1Tag: "Native application", p1P: "Intelligent medical assessment, digital health card and locating health centres.",
+      soonTag: "Coming soon", soonT: "A new project is on its way", soonP: "We regularly add new applications. Come back or write to us to hear about them first.",
+      methH2: "How we work", methIntro: "Every request follows the same path, so you always know where your case stands.",
+      m1T: "Diagnosis", m1P: "You describe the problem. We check on site or remotely and explain what we found.",
+      m2T: "Quote", m2P: "You receive a clear quote with no hidden fees, and you approve it before any work starts.",
+      m3T: "Work and follow-up", m3P: "We fix, test and hand you a simple report, with advice to prevent the problem from coming back.",
+      contH2: "Let's talk about your needs.", contP: "Call us, write to us on WhatsApp or send an email. We usually reply within the day.",
+      quoteH3: "Request a quote", quoteNote: "The form opens your email app with the information already filled in. Nothing is sent without your approval.",
+      fName: "Full name", fPhone: "Phone", fNeed: "Your need", fChoose: "Choose a service", fOther: "Other", fMsg: "Describe your request", fSend: "Prepare my message",
+      faqH2: "Frequently asked questions",
+      q1: "What is a penetration test?", a1: "It is a controlled review of your systems, carried out with your agreement, to find the weaknesses an attacker could exploit. You then receive a report with the fixes to apply.",
+      q2: "How much does a job cost?", a2: "Every request gets a quote based on a diagnosis. No work starts without your approval.",
+      q3: "Do you work remotely?", a3: "Yes, whenever the problem allows it. Some jobs require being on site, and we will tell you so in the quote.",
+      foot1: "© 2026 Intrusion. Yaoundé, Cameroon.",
+      guide: ["Need a quote? The form is right here.", "Want to see our projects? They are just above.", "A security question? Write to us on WhatsApp."],
+      guideLink: "#devis"
+    }
+  };
+  var lang = 'fr';
+  try { lang = localStorage.getItem('intrusion-lang') || ''; } catch(e) { lang = ''; }
+  if (!lang) { var nav = (navigator.language || 'fr').slice(0,2).toLowerCase(); lang = T[nav] ? nav : 'fr'; }
+
+  function apply(l){
+    if (!T[l]) l = 'fr';
+    var d = T[l];
+    document.documentElement.lang = l;
+    document.querySelectorAll('[data-i18n]').forEach(function(el){
+      var v = d[el.getAttribute('data-i18n')]; if (v !== undefined) el.textContent = v;
+    });
+    document.querySelectorAll('[data-i18n-aria]').forEach(function(el){
+      el.setAttribute('aria-label', d[el.getAttribute('data-i18n-aria')]);
+    });
+    document.querySelectorAll('[data-i18n-meta]').forEach(function(el){
+      el.setAttribute('content', d[el.getAttribute('data-i18n-meta')]);
+    });
+    document.querySelectorAll('.lang button').forEach(function(b){
+      b.setAttribute('aria-pressed', String(b.getAttribute('data-lang') === l));
+    });
+    guideTips = d.guide; tip = 0;
+    if (typeof renderProjects === 'function') renderProjects(l);
+    try { localStorage.setItem('intrusion-lang', l); } catch(e) {}
+  }
+  document.querySelectorAll('.lang button').forEach(function(b){
+    b.addEventListener('click', function(){ apply(b.getAttribute('data-lang')); });
+  });
+
+  var guideTips = [], tip = 0;
+  var guide = document.getElementById('guide'), bubble = document.getElementById('bubble'), pac = document.getElementById('pac');
+  function showTip(){
+    var t = guideTips[tip % guideTips.length]; tip++;
+    bubble.innerHTML = '';
+    var a = document.createElement('a'); a.href = T[lang] ? T[lang].guideLink : '#devis'; a.textContent = t;
+    bubble.appendChild(a);
+    guide.classList.add('open');
+  }
+  pac.addEventListener('click', function(){ if (guide.classList.contains('open')) { tip++; showTip(); } else { showTip(); } });
+  pac.addEventListener('keydown', function(e){ if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); showTip(); } });
+  setTimeout(function(){ guide.classList.add('walk'); }, 0);
+
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.documentElement.classList.add('js');
+    var io = window.__revealIO = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } }); }, { threshold: 0.15 });
+    document.querySelectorAll('.reveal').forEach(function(el){ io.observe(el); });
+  } else {
+    document.querySelectorAll('.reveal').forEach(function(el){ el.classList.add('in'); });
+  }
+
+  /* ==== PROJETS ====
+     Pour présenter une nouvelle application, copiez un bloc ci-dessous, puis remplissez-le.
+     icon : "med" (santé, ECG) ou "app" (application générique)
+     link : adresse de la démo ou du téléchargement, ou null si aucune
+  */
+  var PROJECTS = [
+    {
+      icon: "med",
+      tag: { fr: "Application native", en: "Native application" },
+      name: "MedXpress",
+      desc: { fr: "Diagnostic médical intelligent, carte de santé numérique et localisation des centres de santé.", en: "Intelligent medical assessment, digital health card and locating health centres." },
+      link: null
+    }
+  ];
+
+  var ICONS = {
+    med: '<svg viewBox="0 0 280 150"><path class="f ecg" d="M10 80 H70 L82 60 L94 100 L106 40 L120 96 L132 80 H270" style="stroke-dasharray:260"/><circle class="hl pin" cx="220" cy="48" r="6"/><circle class="hl pin pin2" cx="220" cy="48" r="6" fill="none" stroke="var(--signal)" stroke-width="2"/></svg>',
+    app: '<svg viewBox="0 0 280 150"><rect class="s" x="104" y="12" width="72" height="126" rx="12" stroke-width="2"/><rect x="112" y="26" width="56" height="98" rx="6" fill="var(--surface)"/><rect class="lbar" x="120" y="42" width="40" height="6" rx="3"/><rect class="lbar2" x="120" y="42" width="40" height="6" rx="3"/><rect class="lbar" x="120" y="60" width="40" height="6" rx="3"/><rect class="lbar" x="120" y="78" width="28" height="6" rx="3"/></svg>'
+  };
+
+  function renderProjects(l){
+    var box = document.getElementById('projList');
+    if (!box) return;
+    box.innerHTML = '';
+    var en = (l === 'en');
+    PROJECTS.forEach(function(p, i){
+      var art = document.createElement('article');
+      art.className = 'card reveal ' + (p.icon === 'med' ? 'med' : 'app');
+      art.style.setProperty('--d', (i * 120) + 'ms');
+      var stage = document.createElement('div');
+      stage.className = 'stage';
+      stage.setAttribute('aria-hidden', 'true');
+      stage.innerHTML = ICONS[p.icon] || ICONS.app;
+      var tag = document.createElement('span'); tag.className = 'tag'; tag.textContent = p.tag[l] || p.tag.fr;
+      var h = document.createElement('h3'); h.textContent = p.name;
+      var d = document.createElement('p'); d.textContent = p.desc[l] || p.desc.fr;
+      art.appendChild(stage); art.appendChild(tag); art.appendChild(h); art.appendChild(d);
+      if (p.link) {
+        var a = document.createElement('a');
+        a.className = 'btn ghost'; a.href = p.link; a.rel = 'noopener';
+        a.style.marginTop = 'auto';
+        a.textContent = en ? 'Open the project' : 'Voir le projet';
+        art.appendChild(a);
+      }
+      box.appendChild(art);
+    });
+    var soon = document.createElement('article');
+    soon.className = 'card soon reveal';
+    soon.style.setProperty('--d', (PROJECTS.length * 120) + 'ms');
+    soon.innerHTML = '<span class="tag"></span><h3></h3><p></p>';
+    soon.querySelector('.tag').textContent = en ? 'Coming soon' : 'Prochainement';
+    soon.querySelector('h3').textContent = en ? 'A new project is on its way' : 'Un nouveau projet arrive';
+    soon.querySelector('p').textContent = en ? 'We regularly add new applications. Come back or write to us to hear about them first.' : 'Nous ajoutons régulièrement de nouvelles applications. Revenez voir ou écrivez-nous pour être informé en premier.';
+    box.appendChild(soon);
+    box.querySelectorAll('.reveal').forEach(function(el){
+      if (window.__revealIO) window.__revealIO.observe(el); else el.classList.add('in');
+    });
+  }
+
+  apply(lang);
+
+  document.getElementById('quoteForm').addEventListener('submit', function(e){
+    e.preventDefault();
+    var f = new FormData(this);
+    var subject = (lang === 'en' ? 'Quote request: ' : 'Demande de devis : ') + f.get('service');
+    var body = (lang === 'en' ? 'Name: ' : 'Nom : ') + f.get('nom') + '\n' + (lang === 'en' ? 'Phone: ' : 'Téléphone : ') + f.get('tel') + '\n' + (lang === 'en' ? 'Service: ' : 'Service : ') + f.get('service') + '\n\n' + f.get('message');
+    window.location.href = 'mailto:ghostkodes@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+  });
+})();
+</script>
+</body>
+</html>
