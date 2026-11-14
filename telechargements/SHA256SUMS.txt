@@ -1,0 +1,4 @@
+# Remplacé automatiquement par le script release/publier.sh (lanshare/release)
+# Exemple de format :
+# <empreinte SHA-256>  LANShare-1.0.0-setup.exe
+# <empreinte SHA-256>  LANShare-1.0.0-linux.deb

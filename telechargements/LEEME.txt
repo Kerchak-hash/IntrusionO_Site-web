@@ -1,0 +1,7 @@
+Fichiers de téléchargement de LAN Share, à placer ici :
+- LANShare-1.0.0-setup.exe   (installateur Windows, produit par GitHub Actions)
+- LANShare-1.0.0-linux.deb   (paquet Linux, produit par GitHub Actions)
+- SHA256SUMS.txt             (empreintes, produit par release/publier.sh)
+
+Le bouton Windows pointe vers LANShare-1.0.0-setup.exe.
+La commande Linux de la page télécharge LANShare-1.0.0-linux.deb.

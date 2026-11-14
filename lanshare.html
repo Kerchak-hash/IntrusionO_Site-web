@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LAN Share : guide d'utilisation | Intrusion</title>
+<meta name="description" content="Guide d'utilisation de LAN Share : envoyer des fichiers entre vos appareils sur le même réseau, sans internet ni clé USB.">
+<link rel="canonical" href="https://kerchak-hash.github.io/IntrusionO_Site-web/lanshare.html">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="lanshare-icon.svg" type="image/svg+xml">
+<style>
+:root{--paper:#FBF6EE;--surface:#FFFFFF;--ink:#1F1B17;--ink-soft:#5C5249;--line:#E8DCCB;--accent:#B4502A;--signal:#E9A23B}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"IBM Plex Sans",system-ui,sans-serif;line-height:1.7}
+main{max-width:760px;margin:0 auto;padding:48px 24px 80px}
+a{color:var(--accent)}
+nav{margin-bottom:30px;font-size:.95rem}
+header{display:flex;align-items:center;gap:18px;margin-bottom:12px}
+header img{width:64px;height:64px;border-radius:16px}
+h1{font-family:Newsreader,Georgia,serif;font-size:2.2rem;line-height:1.15;margin:0}
+h2{font-family:Newsreader,Georgia,serif;font-size:1.5rem;margin:2.2em 0 .5em;padding-top:1.1em;border-top:1px solid var(--line)}
+p,li{color:var(--ink)}
+.lead{color:var(--ink-soft);font-size:1.08rem}
+ol,ul{padding-left:1.3em}
+li{margin-bottom:.4em}
+.box{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:12px;padding:16px 20px;margin:18px 0}
+table{width:100%;border-collapse:collapse;font-size:.95rem;margin:12px 0}
+th,td{border:1px solid var(--line);padding:9px 12px;text-align:left;vertical-align:top}
+th{background:var(--surface)}
+code{background:#F3EBDD;padding:2px 6px;border-radius:5px;font-size:.92em}
+footer{margin-top:48px;border-top:1px solid var(--line);padding-top:18px;color:var(--ink-soft);font-size:.9rem}
+</style>
+</head>
+<body>
+<main>
+<nav><a href="index.html">← Retour au site Intrusion</a></nav>
+<header><img src="lanshare-icon.svg" alt=""><h1>LAN Share</h1></header>
+<p class="lead">LAN Share envoie des fichiers d'un appareil à un autre, uniquement sur votre réseau local. Pas d'internet, pas de compte, pas de clé USB.</p>
+
+<h2>À quoi ça sert</h2>
+<p>Vous avez un fichier sur votre ordinateur et il doit arriver sur le portable d'un collègue, sur le téléphone de la famille ou sur une autre machine de la maison ou du bureau. LAN Share le fait en quelques clics, et vérifie que le fichier arrive intact.</p>
+
+<h2>Fonctionnalités</h2>
+<ul>
+  <li>Détection automatique des appareils connectés au même réseau.</li>
+  <li>Envoi de fichiers avec une barre de progression.</li>
+  <li>Vérification de chaque fichier par son empreinte SHA-256.</li>
+  <li>Accès protégé par une clé réseau : seuls vos appareils se voient.</li>
+  <li>Interface identique sur Windows et Linux, avec le journal des transferts.</li>
+</ul>
+
+<h2>Installation</h2>
+<h3>Windows</h3>
+<ol>
+  <li>Téléchargez l'installateur depuis le site.</li>
+  <li>Lancez-le et suivez les étapes. Une présentation de l'entreprise et de l'aide s'affiche pendant l'installation.</li>
+  <li>Ouvrez LAN Share depuis le bureau ou le menu Démarrer.</li>
+</ol>
+<h3>Linux (Ubuntu, Debian et dérivés)</h3>
+<p>Ouvrez un terminal et copiez la commande indiquée sur la page de téléchargement. Elle télécharge le paquet puis l'installe. Vous pouvez ensuite lancer LAN Share depuis le menu des applications.</p>
+
+<h2>Premier usage</h2>
+<ol>
+  <li>Au premier lancement, saisissez la <strong>clé réseau</strong>. Choisissez une phrase que vous connaissez, et utilisez exactement la même sur tous vos appareils.</li>
+  <li>Les autres appareils qui ont la même clé apparaissent dans la liste « Machines sur le réseau ».</li>
+  <li>Pour envoyer : choisissez l'appareil, puis le fichier, puis cliquez sur <strong>Envoyer</strong>.</li>
+  <li>Les fichiers reçus arrivent automatiquement dans votre dossier de réception (par défaut le dossier <code>LANShare</code> de votre dossier personnel). Vous pouvez le changer dans le menu <strong>Fichier</strong>.</li>
+</ol>
+
+<h2>Sur téléphone</h2>
+<p>Lancez LAN Share sur un ordinateur du réseau, puis ouvrez l'adresse affichée dans le navigateur du téléphone, connecté au même Wi-Fi. Saisissez la clé réseau pour accéder aux appareils.</p>
+
+<h2>Édition Démo et édition Pro</h2>
+<table>
+  <tr><th>Édition</th><th>Taille maximale par fichier</th></tr>
+  <tr><td>Démo</td><td>50 Mo</td></tr>
+  <tr><td>Pro</td><td>Sans limite</td></tr>
+</table>
+
+<h2>Si un appareil n'apparaît pas</h2>
+<ul>
+  <li>Vérifiez que les deux appareils sont sur le <strong>même réseau Wi-Fi</strong>, et que la clé réseau est identique.</li>
+  <li>Autorisez LAN Share dans le pare-feu de Windows pour les réseaux privés.</li>
+  <li>Sur Linux, vérifiez que les ports <code>47800</code> (UDP) et <code>47801</code> (TCP) ne sont pas bloqués.</li>
+  <li>Les réseaux d'invités et les Wi-Fi publics isolent souvent les appareils : LAN Share ne peut pas les relier dans ce cas.</li>
+</ul>
+
+<div class="box"><strong>Confidentialité.</strong> Les fichiers passent directement d'un appareil à l'autre sur votre réseau. Ils ne sont envoyés à aucun serveur. La clé réseau doit rester privée.</div>
+
+<footer>
+  <p>Besoin d'aide ? Écrivez à ghostkodes@gmail.com ou appelez le 693 59 02 40.</p>
+  <p>© 2026 Intrusion</p>
+</footer>
+</main>
+</body>
+</html>

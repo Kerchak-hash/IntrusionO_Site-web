@@ -1,0 +1,7 @@
+Captures d'écran de LAN Share, affichées dans l'onglet « Captures » :
+- lanshare-linux.png    (LAN Share sur Linux)
+- lanshare-windows.png  (LAN Share sur Windows)
+- lanshare-iphone.png   (interface web dans Safari sur iPhone)
+
+Format PNG, largeur 1200 px environ, sans adresses IP ni noms de machines visibles.
+Tant qu'un fichier manque, son emplacement affiche « Capture d'écran à venir ».

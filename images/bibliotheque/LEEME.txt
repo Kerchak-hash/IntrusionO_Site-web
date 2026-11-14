@@ -1,0 +1,13 @@
+BIBLIOTHÈQUE D'IMAGES PAR THÈME
+
+Le script import_actualites.py choisit une image UNIQUEMENT dans le dossier du thème de l'article :
+- cyber/   : sécurité, réseaux, serveurs, verrous, protection des données
+- prog/    : code, écrans de programmation, terminaux, développement
+- maint/   : ordinateurs, réparation, mise à jour, sauvegarde, matériel
+
+Ajoutez-y des photos libres de droits (jpg, png ou webp). Sources recommandées :
+- unsplash.com (licence Unsplash, crédit conseillé) : recherches « cybersecurity », « programming code », « computer repair »
+- pexels.com (licence Pexels)
+
+Notez l'auteur et la source de chaque image dans CREDITS.txt.
+Un thème sans image n'affiche pas d'image : le fond de marque est utilisé à la place.

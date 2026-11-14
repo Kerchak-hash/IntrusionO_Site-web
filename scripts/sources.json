@@ -1,0 +1,10 @@
+{
+  "_commentaire": "Flux RSS à vérifier avant publication. Ajoutez ou retirez des sources ici. Vérifiez les conditions d'utilisation de chaque site.",
+  "sources": [
+    {"nom": "The Hacker News", "url": "https://feeds.feedburner.com/TheHackersNews", "theme": "cyber"},
+    {"nom": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/", "theme": "cyber"},
+    {"nom": "SecurityWeek", "url": "https://www.securityweek.com/feed/", "theme": "cyber"},
+    {"nom": "GitHub Blog", "url": "https://github.blog/feed/", "theme": "prog"},
+    {"nom": "DEV Community", "url": "https://dev.to/feed", "theme": "prog"}
+  ]
+}

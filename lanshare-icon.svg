@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="LAN Share">
+  <rect width="128" height="128" rx="28" fill="#FBF6EE"/>
+  <rect x="14" y="40" width="38" height="28" rx="5" fill="none" stroke="#1F1B17" stroke-width="4"/>
+  <rect x="76" y="40" width="38" height="28" rx="5" fill="none" stroke="#1F1B17" stroke-width="4"/>
+  <path d="M58 50 H70 M65 45 L70 50 L65 55" fill="none" stroke="#B4502A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 68 H58 M63 63 L58 68 L63 73" fill="none" stroke="#B4502A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M55 100 A10 10 0 1 1 55 92" fill="none" stroke="#B4502A" stroke-width="4" stroke-linecap="round" transform="translate(9 0)"/>
+  <circle cx="71" cy="96" r="3.5" fill="#1F1B17"/>
+</svg>
