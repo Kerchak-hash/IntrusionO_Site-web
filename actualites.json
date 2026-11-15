@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "theme": "cyber",
+    "date": "2026-11-15",
+    "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+    "en": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-15",
+    "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+    "en": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-15",
+    "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+    "en": "Pentagon Renames CDAO ‘Super Intelligence Office’"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-15",
+    "url": "https://dev.to/alvin_james/lessons-from-leading-a-small-dev-team-code-reviews-git-workflow-and-shipping-without-burning-out-3j6p",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Lessons from Leading a Small Dev Team: Code Reviews, Git Workflow, and Shipping Without Burning Out",
+    "en": "Lessons from Leading a Small Dev Team: Code Reviews, Git Workflow, and Shipping Without Burning Out"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-15",
+    "url": "https://dev.to/kalemi/github-actions-workflow-not-triggering-three-different-states-4b98",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "GitHub Actions workflow not triggering: three different states",
+    "en": "GitHub Actions workflow not triggering: three different states"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-15",
+    "url": "https://dev.to/ip99/check-the-exit-the-internet-sees-looking-up-your-own-ip-on-ip99-1l7n",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Check the Exit the Internet Sees: Looking Up Your Own IP on IP99",
+    "en": "Check the Exit the Internet Sees: Looking Up Your Own IP on IP99"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-15",
+    "url": "https://dev.to/tomoyacreater/808-articles-in-antigravity-wants-the-plan-written-in-python-first-4a03",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "808 Articles In, Antigravity Wants the Plan Written in Python First",
+    "en": "808 Articles In, Antigravity Wants the Plan Written in Python First"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-14",
+    "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+    "en": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-14",
+    "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Cursor confirms security breach led to malicious Claude Code extension",
+    "en": "Cursor confirms security breach led to malicious Claude Code extension"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-14",
+    "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "US disrupts North Korean campaign behind $400 million crypto theft",
+    "en": "US disrupts North Korean campaign behind $400 million crypto theft"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-14",
+    "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
+    "en": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-14",
+    "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Is AI Making Us Worse at Cybersecurity?",
+    "en": "Is AI Making Us Worse at Cybersecurity?"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-14",
+    "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+    "en": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data"
+  },
+  {
+    "theme": "maint",
+    "date": "2026-11-13",
+    "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+    "en": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-13",
+    "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+    "en": "Trezor confirms crypto-stealing implants in three wallets, releases fix"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-13",
+    "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "German military drone operations disrupted by cyberattack",
+    "en": "German military drone operations disrupted by cyberattack"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-13",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+    "src": "GitHub Blog",
+    "img": null,
+    "credit": null,
+    "fr": "GitHub availability report: October 2026",
+    "en": "GitHub availability report: October 2026"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-12",
+    "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+    "src": "GitHub Blog",
+    "img": null,
+    "credit": null,
+    "fr": "Build once, run on any agent: A practical guide to agent skills",
+    "en": "Build once, run on any agent: A practical guide to agent skills"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-10",
+    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+    "src": "GitHub Blog",
+    "img": null,
+    "credit": null,
+    "fr": "Git security vulnerabilities announced",
+    "en": "Git security vulnerabilities announced"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-06",
+    "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+    "src": "GitHub Blog",
+    "img": null,
+    "credit": null,
+    "fr": "Beyond code generation: A developer’s guide to agentic engineering",
+    "en": "Beyond code generation: A developer’s guide to agentic engineering"
+  }
+]
