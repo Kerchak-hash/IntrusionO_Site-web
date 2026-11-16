@@ -1,163 +1,163 @@
 [
   {
-    "theme": "cyber",
-    "date": "2026-11-15",
-    "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+    "theme": "maint",
+    "date": "2026-11-16",
+    "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-    "en": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent"
+    "fr": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+    "en": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
   },
   {
-    "theme": "prog",
-    "date": "2026-11-15",
-    "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+    "theme": "cyber",
+    "date": "2026-11-16",
+    "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-    "en": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident"
+    "fr": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+    "en": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-15",
-    "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Pentagon Renames CDAO ‘Super Intelligence Office’",
-    "en": "Pentagon Renames CDAO ‘Super Intelligence Office’"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-15",
-    "url": "https://dev.to/alvin_james/lessons-from-leading-a-small-dev-team-code-reviews-git-workflow-and-shipping-without-burning-out-3j6p",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Lessons from Leading a Small Dev Team: Code Reviews, Git Workflow, and Shipping Without Burning Out",
-    "en": "Lessons from Leading a Small Dev Team: Code Reviews, Git Workflow, and Shipping Without Burning Out"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-15",
-    "url": "https://dev.to/kalemi/github-actions-workflow-not-triggering-three-different-states-4b98",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "GitHub Actions workflow not triggering: three different states",
-    "en": "GitHub Actions workflow not triggering: three different states"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-15",
-    "url": "https://dev.to/ip99/check-the-exit-the-internet-sees-looking-up-your-own-ip-on-ip99-1l7n",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Check the Exit the Internet Sees: Looking Up Your Own IP on IP99",
-    "en": "Check the Exit the Internet Sees: Looking Up Your Own IP on IP99"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-15",
-    "url": "https://dev.to/tomoyacreater/808-articles-in-antigravity-wants-the-plan-written-in-python-first-4a03",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "808 Articles In, Antigravity Wants the Plan Written in Python First",
-    "en": "808 Articles In, Antigravity Wants the Plan Written in Python First"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-14",
-    "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+    "date": "2026-11-16",
+    "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-    "en": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection"
+    "fr": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+    "en": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-16",
+    "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    "en": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-14",
-    "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+    "date": "2026-11-16",
+    "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Cursor confirms security breach led to malicious Claude Code extension",
-    "en": "Cursor confirms security breach led to malicious Claude Code extension"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-14",
-    "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "US disrupts North Korean campaign behind $400 million crypto theft",
-    "en": "US disrupts North Korean campaign behind $400 million crypto theft"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-14",
-    "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook",
-    "en": "Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-14",
-    "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Is AI Making Us Worse at Cybersecurity?",
-    "en": "Is AI Making Us Worse at Cybersecurity?"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-14",
-    "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
-    "en": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data"
+    "fr": "Google warns that fully-automated AI attacks are coming soon",
+    "en": "Google warns that fully-automated AI attacks are coming soon"
   },
   {
     "theme": "maint",
-    "date": "2026-11-13",
-    "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-    "en": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-13",
-    "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+    "date": "2026-11-16",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-    "en": "Trezor confirms crypto-stealing implants in three wallets, releases fix"
+    "fr": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+    "en": "Microsoft: Windows Server 2016 reaches end of support in 60 days"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-13",
-    "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+    "date": "2026-11-16",
+    "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "German military drone operations disrupted by cyberattack",
-    "en": "German military drone operations disrupted by cyberattack"
+    "fr": "Australian retail giant Coles investigates cybersecurity incident",
+    "en": "Australian retail giant Coles investigates cybersecurity incident"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-16",
+    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+    "en": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-16",
+    "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+    "en": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-16",
+    "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+    "en": "Recent UnrealIRCd Vulnerability Exploited in Attacks"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-16",
+    "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+    "en": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-16",
+    "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Uber Data Breach Impacts 150,000 People",
+    "en": "Uber Data Breach Impacts 150,000 People"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-16",
+    "url": "https://dev.to/techamit95ch/the-blockchain-bootcamp-3-a-chain-on-your-own-machine-579o",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "The blockchain bootcamp · 3. A chain on your own machine",
+    "en": "The blockchain bootcamp · 3. A chain on your own machine"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-16",
+    "url": "https://dev.to/svgicons/why-your-sidebar-icons-look-inconsistent-even-at-the-same-size-3df2",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Why Your Sidebar Icons Look Inconsistent - Even at the Same Size",
+    "en": "Why Your Sidebar Icons Look Inconsistent - Even at the Same Size"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-16",
+    "url": "https://dev.to/hijiwee/when-working-with-multiple-llm-apis-rate-limits-matter-handling-tpm-rpm-retries-and-fallback-3hop",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "When working with multiple LLM APIs, rate limits matter. Handling TPM, RPM, retries, and fallback models properly can prevent failed requests and keep applications running smoothly.",
+    "en": "When working with multiple LLM APIs, rate limits matter. Handling TPM, RPM, retries, and fallback models properly can prevent failed requests and keep applications running smoothly."
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-16",
+    "url": "https://dev.to/rambozambo/we-scored-our-own-mcp-server-against-a-public-lost-response-contract-and-published-the-failing-marks-5emh",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "We scored our own MCP server against a public lost-response contract and published the failing marks",
+    "en": "We scored our own MCP server against a public lost-response contract and published the failing marks"
   },
   {
     "theme": "prog",
