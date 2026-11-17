@@ -1,163 +1,163 @@
 [
   {
+    "theme": "cyber",
+    "date": "2026-11-17",
+    "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+    "en": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-17",
+    "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+    "en": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-17",
+    "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+    "en": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-17",
+    "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+    "en": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-17",
+    "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+    "en": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
+  },
+  {
     "theme": "maint",
-    "date": "2026-11-16",
-    "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-    "en": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-    "en": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-    "en": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-16",
-    "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-    "en": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+    "date": "2026-11-17",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Google warns that fully-automated AI attacks are coming soon",
-    "en": "Google warns that fully-automated AI attacks are coming soon"
+    "fr": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+    "en": "Microsoft testing Remote Lock for lost or stolen Windows devices"
   },
   {
-    "theme": "maint",
-    "date": "2026-11-16",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+    "theme": "cyber",
+    "date": "2026-11-17",
+    "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-    "en": "Microsoft: Windows Server 2016 reaches end of support in 60 days"
+    "fr": "Court clears brothers of $25 million Ethereum crypto heist charges",
+    "en": "Court clears brothers of $25 million Ethereum crypto heist charges"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+    "date": "2026-11-17",
+    "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Australian retail giant Coles investigates cybersecurity incident",
-    "en": "Australian retail giant Coles investigates cybersecurity incident"
+    "fr": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+    "en": "Uber notifies drivers of data breach affecting nearly 150,000 people"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-    "en": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+    "date": "2026-11-17",
+    "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
-    "en": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch"
+    "fr": "Market Research Giant Ipsos Investigating Breach of Internal System",
+    "en": "Market Research Giant Ipsos Investigating Breach of Internal System"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+    "date": "2026-11-17",
+    "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
-    "en": "Recent UnrealIRCd Vulnerability Exploited in Attacks"
+    "fr": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
+    "en": "Fandango Warns Ticket Buyers of Payment Card Data Exposure"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+    "date": "2026-11-17",
+    "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
-    "en": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers"
+    "fr": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
+    "en": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-16",
-    "url": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+    "date": "2026-11-17",
+    "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "Uber Data Breach Impacts 150,000 People",
-    "en": "Uber Data Breach Impacts 150,000 People"
+    "fr": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+    "en": "MSP ScreenConnect Servers Targeted in Month-Long Campaign"
   },
   {
     "theme": "prog",
-    "date": "2026-11-16",
-    "url": "https://dev.to/techamit95ch/the-blockchain-bootcamp-3-a-chain-on-your-own-machine-579o",
+    "date": "2026-11-17",
+    "url": "https://dev.to/nithya_srid/150-shipment-events-entered-my-pipeline-only-146-made-it-through-heres-why-7cc",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "The blockchain bootcamp · 3. A chain on your own machine",
-    "en": "The blockchain bootcamp · 3. A chain on your own machine"
+    "fr": "150 Shipment Events Entered My Pipeline. Only 146 Made It Through. Here's Why.",
+    "en": "150 Shipment Events Entered My Pipeline. Only 146 Made It Through. Here's Why."
   },
   {
     "theme": "prog",
-    "date": "2026-11-16",
-    "url": "https://dev.to/svgicons/why-your-sidebar-icons-look-inconsistent-even-at-the-same-size-3df2",
+    "date": "2026-11-17",
+    "url": "https://dev.to/ujjwal_dubey_9/diff-what-ai-answers-say-about-your-brand-against-a-facts-file-a-tiny-python-checker-1dl8",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Why Your Sidebar Icons Look Inconsistent - Even at the Same Size",
-    "en": "Why Your Sidebar Icons Look Inconsistent - Even at the Same Size"
+    "fr": "Diff What AI Answers Say About Your Brand Against a Facts File: A Tiny Python Checker",
+    "en": "Diff What AI Answers Say About Your Brand Against a Facts File: A Tiny Python Checker"
   },
   {
     "theme": "prog",
-    "date": "2026-11-16",
-    "url": "https://dev.to/hijiwee/when-working-with-multiple-llm-apis-rate-limits-matter-handling-tpm-rpm-retries-and-fallback-3hop",
+    "date": "2026-11-17",
+    "url": "https://dev.to/henryramireztech/gitdoor-y-graphdoor-en-shadowcloud-espian-gobiernos-27ep",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "When working with multiple LLM APIs, rate limits matter. Handling TPM, RPM, retries, and fallback models properly can prevent failed requests and keep applications running smoothly.",
-    "en": "When working with multiple LLM APIs, rate limits matter. Handling TPM, RPM, retries, and fallback models properly can prevent failed requests and keep applications running smoothly."
+    "fr": "GitDoor y GraphDoor en ShadowCloud espían gobiernos",
+    "en": "GitDoor y GraphDoor en ShadowCloud espían gobiernos"
   },
   {
     "theme": "prog",
-    "date": "2026-11-16",
-    "url": "https://dev.to/rambozambo/we-scored-our-own-mcp-server-against-a-public-lost-response-contract-and-published-the-failing-marks-5emh",
+    "date": "2026-11-17",
+    "url": "https://dev.to/rick_leffke_6541e28129e2a/which-of-your-ai-agents-actions-cant-be-undone-4mp8",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "We scored our own MCP server against a public lost-response contract and published the failing marks",
-    "en": "We scored our own MCP server against a public lost-response contract and published the failing marks"
+    "fr": "Which of your AI agent's actions can't be undone?",
+    "en": "Which of your AI agent's actions can't be undone?"
   },
   {
     "theme": "prog",
