@@ -1,163 +1,183 @@
 [
   {
     "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "date": "2026-11-18",
+    "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-    "en": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
+    "fr": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+    "en": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+    "date": "2026-11-18",
+    "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-    "en": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-17",
-    "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-    "en": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels"
+    "fr": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+    "en": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+    "date": "2026-11-18",
+    "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-    "en": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks"
+    "fr": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
+    "en": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+    "date": "2026-11-18",
+    "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+    "en": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-    "en": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions"
+    "fr": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+    "en": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+    "en": "Dizigom illegal streaming service with 21M monthly visits shuts down"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Apache warns of Roller RCE vulnerability exploited in attacks",
+    "en": "Apache warns of Roller RCE vulnerability exploited in attacks"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Microsoft announces Windows Server 2028 with hardened security",
+    "en": "Microsoft announces Windows Server 2028 with hardened security"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+    "en": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+    "en": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+    "en": "Microsoft Takes Perception Agentic Security Platform Out of Preview"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-18",
+    "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+    "en": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do"
   },
   {
     "theme": "maint",
-    "date": "2026-11-17",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-    "src": "BleepingComputer",
+    "date": "2026-11-18",
+    "url": "https://dev.to/alanwest/ublock-origin-universal-xss-check-your-version-it-may-not-have-auto-updated-3bfi",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-    "en": "Microsoft testing Remote Lock for lost or stolen Windows devices"
+    "fr": "uBlock Origin Universal XSS: Check Your Version (It May Not Have Auto-Updated)",
+    "en": "uBlock Origin Universal XSS: Check Your Version (It May Not Have Auto-Updated)"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-    "src": "BleepingComputer",
+    "theme": "prog",
+    "date": "2026-11-18",
+    "url": "https://dev.to/kawsarlog/10-best-ai-chrome-extensions-for-productivity-in-2026-actually-tested-f6c",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Court clears brothers of $25 million Ethereum crypto heist charges",
-    "en": "Court clears brothers of $25 million Ethereum crypto heist charges"
+    "fr": "10 best AI Chrome extensions for productivity in 2026 (actually tested)",
+    "en": "10 best AI Chrome extensions for productivity in 2026 (actually tested)"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-    "src": "BleepingComputer",
+    "theme": "prog",
+    "date": "2026-11-18",
+    "url": "https://dev.to/saras_growth_space/back-of-the-envelope-estimation-understanding-qps-44hc",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-    "en": "Uber notifies drivers of data breach affecting nearly 150,000 people"
+    "fr": "Back-of-the-Envelope Estimation : Understanding QPS",
+    "en": "Back-of-the-Envelope Estimation : Understanding QPS"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-    "src": "SecurityWeek",
+    "theme": "prog",
+    "date": "2026-11-18",
+    "url": "https://dev.to/beanstechbr/el-guardrail-como-proxy-http-ed1",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Market Research Giant Ipsos Investigating Breach of Internal System",
-    "en": "Market Research Giant Ipsos Investigating Breach of Internal System"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-    "en": "Fandango Warns Ticket Buyers of Payment Card Data Exposure"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-    "en": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-17",
-    "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-    "en": "MSP ScreenConnect Servers Targeted in Month-Long Campaign"
+    "fr": "El guardrail como proxy HTTP",
+    "en": "El guardrail como proxy HTTP"
   },
   {
     "theme": "prog",
     "date": "2026-11-17",
-    "url": "https://dev.to/nithya_srid/150-shipment-events-entered-my-pipeline-only-146-made-it-through-heres-why-7cc",
-    "src": "DEV Community",
+    "url": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+    "src": "GitHub Blog",
     "img": null,
     "credit": null,
-    "fr": "150 Shipment Events Entered My Pipeline. Only 146 Made It Through. Here's Why.",
-    "en": "150 Shipment Events Entered My Pipeline. Only 146 Made It Through. Here's Why."
+    "fr": "Maintainers don’t need more AI bug reports. They need fixes.",
+    "en": "Maintainers don’t need more AI bug reports. They need fixes."
   },
   {
     "theme": "prog",
     "date": "2026-11-17",
-    "url": "https://dev.to/ujjwal_dubey_9/diff-what-ai-answers-say-about-your-brand-against-a-facts-file-a-tiny-python-checker-1dl8",
-    "src": "DEV Community",
+    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+    "src": "GitHub Blog",
     "img": null,
     "credit": null,
-    "fr": "Diff What AI Answers Say About Your Brand Against a Facts File: A Tiny Python Checker",
-    "en": "Diff What AI Answers Say About Your Brand Against a Facts File: A Tiny Python Checker"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-17",
-    "url": "https://dev.to/henryramireztech/gitdoor-y-graphdoor-en-shadowcloud-espian-gobiernos-27ep",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "GitDoor y GraphDoor en ShadowCloud espían gobiernos",
-    "en": "GitDoor y GraphDoor en ShadowCloud espían gobiernos"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-17",
-    "url": "https://dev.to/rick_leffke_6541e28129e2a/which-of-your-ai-agents-actions-cant-be-undone-4mp8",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Which of your AI agent's actions can't be undone?",
-    "en": "Which of your AI agent's actions can't be undone?"
+    "fr": "Building the Agent Host Protocol for sessions that continue across devices",
+    "en": "Building the Agent Host Protocol for sessions that continue across devices"
   },
   {
     "theme": "prog",
@@ -178,25 +198,5 @@
     "credit": null,
     "fr": "Build once, run on any agent: A practical guide to agent skills",
     "en": "Build once, run on any agent: A practical guide to agent skills"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-10",
-    "url": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
-    "src": "GitHub Blog",
-    "img": null,
-    "credit": null,
-    "fr": "Git security vulnerabilities announced",
-    "en": "Git security vulnerabilities announced"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-06",
-    "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
-    "src": "GitHub Blog",
-    "img": null,
-    "credit": null,
-    "fr": "Beyond code generation: A developer’s guide to agentic engineering",
-    "en": "Beyond code generation: A developer’s guide to agentic engineering"
   }
 ]
