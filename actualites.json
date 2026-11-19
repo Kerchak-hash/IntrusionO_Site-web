@@ -1,163 +1,163 @@
 [
   {
     "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+    "date": "2026-11-19",
+    "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-    "en": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-    "en": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-    "en": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-    "src": "The Hacker News",
-    "img": null,
-    "credit": null,
-    "fr": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-    "en": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-    "en": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-    "en": "Dizigom illegal streaming service with 21M monthly visits shuts down"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Apache warns of Roller RCE vulnerability exploited in attacks",
-    "en": "Apache warns of Roller RCE vulnerability exploited in attacks"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Microsoft announces Windows Server 2028 with hardened security",
-    "en": "Microsoft announces Windows Server 2028 with hardened security"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
-    "en": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
-    "en": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
-    "en": "Microsoft Takes Perception Agentic Security Platform Out of Preview"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-18",
-    "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-    "en": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do"
-  },
-  {
-    "theme": "maint",
-    "date": "2026-11-18",
-    "url": "https://dev.to/alanwest/ublock-origin-universal-xss-check-your-version-it-may-not-have-auto-updated-3bfi",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "uBlock Origin Universal XSS: Check Your Version (It May Not Have Auto-Updated)",
-    "en": "uBlock Origin Universal XSS: Check Your Version (It May Not Have Auto-Updated)"
+    "fr": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+    "en": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication"
   },
   {
     "theme": "prog",
-    "date": "2026-11-18",
-    "url": "https://dev.to/kawsarlog/10-best-ai-chrome-extensions-for-productivity-in-2026-actually-tested-f6c",
-    "src": "DEV Community",
+    "date": "2026-11-19",
+    "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+    "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "10 best AI Chrome extensions for productivity in 2026 (actually tested)",
-    "en": "10 best AI Chrome extensions for productivity in 2026 (actually tested)"
+    "fr": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+    "en": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    "en": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Everything Is a Web Application, Including Your Firewall",
+    "en": "Everything Is a Web Application, Including Your Firewall"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Five warning signs of ransomware breach before encryption or data theft",
+    "en": "Five warning signs of ransomware breach before encryption or data theft"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+    "en": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+    "en": "Drupal patches critical RCE flaw, warns exploits may surface quickly"
   },
   {
     "theme": "prog",
-    "date": "2026-11-18",
-    "url": "https://dev.to/saras_growth_space/back-of-the-envelope-estimation-understanding-qps-44hc",
-    "src": "DEV Community",
+    "date": "2026-11-19",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+    "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Back-of-the-Envelope Estimation : Understanding QPS",
-    "en": "Back-of-the-Envelope Estimation : Understanding QPS"
+    "fr": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+    "en": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Nvidia Responds to Gentlemen Ransomware Claim",
+    "en": "Nvidia Responds to Gentlemen Ransomware Claim"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+    "en": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+    "en": "StepSecurity Secures $20 Million to Expand Supply Chain Protection"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-19",
+    "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+    "en": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks"
   },
   {
     "theme": "prog",
-    "date": "2026-11-18",
-    "url": "https://dev.to/beanstechbr/el-guardrail-como-proxy-http-ed1",
+    "date": "2026-11-19",
+    "url": "https://dev.to/sess/my-headless-agent-can-now-get-ui-when-it-needs-one-1dca",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "El guardrail como proxy HTTP",
-    "en": "El guardrail como proxy HTTP"
+    "fr": "My headless agent can now get UI when it needs one",
+    "en": "My headless agent can now get UI when it needs one"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-19",
+    "url": "https://dev.to/firstprimal/the-ccar-p-exam-guide-v11-is-out-and-the-exam-switches-on-7-december-i-compared-it-with-v10-1dc8",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "The CCAR-P exam guide v1.1 is out and the exam switches on 7 December.\nI compared it with v1.0 line by line: 70 questions, 60 scored, new domain weights, 39 skills.\n\nWhich side of the date are you sitting?",
+    "en": "The CCAR-P exam guide v1.1 is out and the exam switches on 7 December.\nI compared it with v1.0 line by line: 70 questions, 60 scored, new domain weights, 39 skills.\n\nWhich side of the date are you sitting?"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-19",
+    "url": "https://dev.to/super_lewis/gemini-4-neon-vs-carbon-vs-hydrogen-vs-argon-hydrogen-answers-twice-as-fast-neon-costs-the-most-3664",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Gemini 4 Neon vs Carbon vs Hydrogen vs Argon: Hydrogen Answers Twice as Fast, Neon Costs the Most",
+    "en": "Gemini 4 Neon vs Carbon vs Hydrogen vs Argon: Hydrogen Answers Twice as Fast, Neon Costs the Most"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-19",
+    "url": "https://dev.to/benjamingarciamtl/how-to-monitor-a-website-for-changes-and-get-an-alert-5b25",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "How to monitor a website for changes and get an alert",
+    "en": "How to monitor a website for changes and get an alert"
   },
   {
     "theme": "prog",
