@@ -1,6 +1,76 @@
 [
   {
     "theme": "cyber",
+    "date": "2026-11-22",
+    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "en": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-22",
+    "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+    "en": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-22",
+    "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+    "en": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-22",
+    "url": "https://dev.to/marcoschulz123/interactive-floor-plan-with-hotspots-in-react-mb6",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Interactive floor plan with hotspots in React",
+    "en": "Interactive floor plan with hotspots in React"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-22",
+    "url": "https://dev.to/neticslabs/metas-muse-tries-to-make-the-consumer-agent-a-secure-computer-3a1n",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Meta's Muse Tries to Make the Consumer Agent a Secure Computer",
+    "en": "Meta's Muse Tries to Make the Consumer Agent a Secure Computer"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-22",
+    "url": "https://dev.to/neticslabs/amazon-opensearch-memory-stores-what-an-agent-learned-and-hands-it-back-2j96",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Amazon OpenSearch Memory Stores What an Agent Learned and Hands It Back",
+    "en": "Amazon OpenSearch Memory Stores What an Agent Learned and Hands It Back"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-22",
+    "url": "https://dev.to/aipredictions_dev/when-nvenc-will-not-start-a-gpu-full-of-models-and-a-renderer-that-falls-back-3can",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "When NVENC will not start: a GPU full of models, and a renderer that falls back",
+    "en": "When NVENC will not start: a GPU full of models, and a renderer that falls back"
+  },
+  {
+    "theme": "cyber",
     "date": "2026-11-21",
     "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
     "src": "The Hacker News",
@@ -22,22 +92,52 @@
   {
     "theme": "cyber",
     "date": "2026-11-21",
-    "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-    "src": "The Hacker News",
+    "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+    "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-    "en": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access"
+    "fr": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+    "en": "Rackspace Spot breach let hackers access customer Kubernetes secrets"
   },
   {
     "theme": "cyber",
     "date": "2026-11-21",
-    "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-    "src": "The Hacker News",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+    "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-    "en": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS"
+    "fr": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+    "en": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-21",
+    "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+    "en": "BADBOX botnet returns with record-breaking 40 billion daily ad requests"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-21",
+    "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "FBI reportedly hacked again, this time targeting nationwide police database",
+    "en": "FBI reportedly hacked again, this time targeting nationwide police database"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-21",
+    "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "President Trump Taps Kirsten Davies as National Cyber Director",
+    "en": "President Trump Taps Kirsten Davies as National Cyber Director"
   },
   {
     "theme": "cyber",
@@ -50,86 +150,6 @@
     "en": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day"
   },
   {
-    "theme": "prog",
-    "date": "2026-11-21",
-    "url": "https://dev.to/cyberbezpieczenstwo/a-new-cve-was-published-do-you-know-which-of-your-applications-are-affected-1jf0",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "A New CVE Was Published. Do You Know Which of Your Applications Are Affected?",
-    "en": "A New CVE Was Published. Do You Know Which of Your Applications Are Affected?"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-21",
-    "url": "https://dev.to/jianzhujisuan/my-search-box-scored-100-on-a-query-it-understood-nothing-about-2gf8",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "My search box scored 1.00 on a query it understood nothing about",
-    "en": "My search box scored 1.00 on a query it understood nothing about"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-21",
-    "url": "https://dev.to/dqj1998/the-cell-not-the-team-three-roles-that-make-one-engineer-accountable-3hkg",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "The Cell, Not the Team: Three Roles That Make One Engineer Accountable",
-    "en": "The Cell, Not the Team: Three Roles That Make One Engineer Accountable"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-21",
-    "url": "https://dev.to/singhularityai/merge-2-my-five-pre-upload-tools-are-now-one-suite-1i5a",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Merge #2: my five pre-upload tools are now one suite",
-    "en": "Merge #2: my five pre-upload tools are now one suite"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-20",
-    "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-    "en": "Bell Canada says 'agentic' hacker stole enterprise customer data"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-20",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-    "en": "Hackers use autonomous AI tool Cairn to find zero-day, take over server"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-20",
-    "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-    "en": "Vendor data breach exposes Chase, Visa, Mastercard customer info"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-20",
-    "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-    "en": "Still tracking company passwords in spreadsheets? You’re flying blind."
-  },
-  {
     "theme": "cyber",
     "date": "2026-11-20",
     "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
@@ -138,26 +158,6 @@
     "credit": null,
     "fr": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
     "en": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-20",
-    "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
-    "en": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit"
-  },
-  {
-    "theme": "maint",
-    "date": "2026-11-20",
-    "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
-    "en": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday"
   },
   {
     "theme": "prog",
