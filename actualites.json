@@ -1,163 +1,163 @@
 [
   {
     "theme": "cyber",
-    "date": "2026-11-22",
-    "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+    "date": "2026-11-23",
+    "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-    "en": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms"
+    "fr": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+    "en": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-22",
-    "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+    "theme": "prog",
+    "date": "2026-11-23",
+    "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-    "en": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps"
+    "fr": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+    "en": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-22",
-    "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-    "en": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-22",
-    "url": "https://dev.to/marcoschulz123/interactive-floor-plan-with-hotspots-in-react-mb6",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Interactive floor plan with hotspots in React",
-    "en": "Interactive floor plan with hotspots in React"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-22",
-    "url": "https://dev.to/neticslabs/metas-muse-tries-to-make-the-consumer-agent-a-secure-computer-3a1n",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Meta's Muse Tries to Make the Consumer Agent a Secure Computer",
-    "en": "Meta's Muse Tries to Make the Consumer Agent a Secure Computer"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-22",
-    "url": "https://dev.to/neticslabs/amazon-opensearch-memory-stores-what-an-agent-learned-and-hands-it-back-2j96",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Amazon OpenSearch Memory Stores What an Agent Learned and Hands It Back",
-    "en": "Amazon OpenSearch Memory Stores What an Agent Learned and Hands It Back"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-22",
-    "url": "https://dev.to/aipredictions_dev/when-nvenc-will-not-start-a-gpu-full-of-models-and-a-renderer-that-falls-back-3can",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "When NVENC will not start: a GPU full of models, and a renderer that falls back",
-    "en": "When NVENC will not start: a GPU full of models, and a renderer that falls back"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+    "date": "2026-11-23",
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-    "en": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats"
+    "fr": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+    "en": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+    "date": "2026-11-23",
+    "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-    "en": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys"
+    "fr": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+    "en": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+    "date": "2026-11-23",
+    "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-    "en": "Rackspace Spot breach let hackers access customer Kubernetes secrets"
+    "fr": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+    "en": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+    "date": "2026-11-23",
+    "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-    "en": "Microsoft Entra Connect Health flaw exploited to steal tenant data"
+    "fr": "AI Agents Are Creating a Shared Responsibility Gap",
+    "en": "AI Agents Are Creating a Shared Responsibility Gap"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+    "theme": "maint",
+    "date": "2026-11-23",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-    "en": "BADBOX botnet returns with record-breaking 40 billion daily ad requests"
+    "fr": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
+    "en": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+    "date": "2026-11-23",
+    "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "FBI reportedly hacked again, this time targeting nationwide police database",
-    "en": "FBI reportedly hacked again, this time targeting nationwide police database"
+    "fr": "Call center operator gets 8 years for helping scam 30,000 Americans",
+    "en": "Call center operator gets 8 years for helping scam 30,000 Americans"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+    "date": "2026-11-23",
+    "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "President Trump Taps Kirsten Davies as National Cyber Director",
-    "en": "President Trump Taps Kirsten Davies as National Cyber Director"
+    "fr": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+    "en": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-21",
-    "url": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+    "date": "2026-11-23",
+    "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-    "en": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day"
+    "fr": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+    "en": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-20",
-    "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+    "date": "2026-11-23",
+    "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
-    "en": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign"
+    "fr": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
+    "en": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-23",
+    "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
+    "en": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-23",
+    "url": "https://dev.to/juanma_garrido_1974/fifty-tutorials-wont-teach-you-what-one-broken-build-will-a-failure-log-for-learning-new-tools-lnf",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Fifty tutorials won't teach you what one broken build will: a failure log for learning new tools",
+    "en": "Fifty tutorials won't teach you what one broken build will: a failure log for learning new tools"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-23",
+    "url": "https://dev.to/alexandre_sechi_99b299b84/how-to-run-several-claude-code-agents-in-parallel-3pmo",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "How to run several Claude Code agents in parallel",
+    "en": "How to run several Claude Code agents in parallel"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-23",
+    "url": "https://dev.to/alexandre_sechi_99b299b84/claude-code-guis-in-2026-what-exists-and-who-each-one-suits-366d",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Claude Code GUIs in 2026: what exists and who each one suits",
+    "en": "Claude Code GUIs in 2026: what exists and who each one suits"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-23",
+    "url": "https://dev.to/rglodzinski/why-a-disk-cleaner-should-never-delete-on-its-own-fam",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Why a disk cleaner should never delete on its own",
+    "en": "Why a disk cleaner should never delete on its own"
   },
   {
     "theme": "prog",
