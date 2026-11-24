@@ -1,163 +1,173 @@
 [
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+    "date": "2026-11-24",
+    "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-    "en": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble"
+    "fr": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+    "en": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation"
   },
   {
-    "theme": "prog",
-    "date": "2026-11-23",
-    "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+    "theme": "cyber",
+    "date": "2026-11-24",
+    "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-    "en": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions"
+    "fr": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+    "en": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+    "date": "2026-11-24",
+    "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-    "en": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning"
+    "fr": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+    "en": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+    "theme": "prog",
+    "date": "2026-11-24",
+    "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-    "en": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation"
+    "fr": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+    "en": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+    "date": "2026-11-24",
+    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-    "en": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards"
+    "fr": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+    "en": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+    "date": "2026-11-24",
+    "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "AI Agents Are Creating a Shared Responsibility Gap",
-    "en": "AI Agents Are Creating a Shared Responsibility Gap"
+    "fr": "European Commission confirms data theft in EU Academy breach",
+    "en": "European Commission confirms data theft in EU Academy breach"
   },
   {
-    "theme": "maint",
-    "date": "2026-11-23",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+    "theme": "cyber",
+    "date": "2026-11-24",
+    "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-    "en": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops"
+    "fr": "Hackers compromise Check Point Servers in 22 organizations",
+    "en": "Hackers compromise Check Point Servers in 22 organizations"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
+    "date": "2026-11-24",
+    "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Call center operator gets 8 years for helping scam 30,000 Americans",
-    "en": "Call center operator gets 8 years for helping scam 30,000 Americans"
+    "fr": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+    "en": "Police disrupt 57 illegal streaming services with 7.3 million visits"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+    "date": "2026-11-24",
+    "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
-    "en": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms"
+    "fr": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+    "en": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+    "date": "2026-11-24",
+    "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
-    "en": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack"
+    "fr": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+    "en": "European Commission Uncovers Data Breach in Cyberattack Investigation"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+    "date": "2026-11-24",
+    "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
-    "en": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path"
+    "fr": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+    "en": "Check Point Security Management Servers Hacked in AI-Assisted Campaign"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-23",
-    "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+    "date": "2026-11-24",
+    "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
     "src": "SecurityWeek",
     "img": null,
     "credit": null,
-    "fr": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
-    "en": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw"
+    "fr": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+    "en": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse"
   },
   {
     "theme": "prog",
-    "date": "2026-11-23",
-    "url": "https://dev.to/juanma_garrido_1974/fifty-tutorials-wont-teach-you-what-one-broken-build-will-a-failure-log-for-learning-new-tools-lnf",
-    "src": "DEV Community",
+    "date": "2026-11-24",
+    "url": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+    "src": "GitHub Blog",
     "img": null,
     "credit": null,
-    "fr": "Fifty tutorials won't teach you what one broken build will: a failure log for learning new tools",
-    "en": "Fifty tutorials won't teach you what one broken build will: a failure log for learning new tools"
+    "fr": "These are the gifts developers will actually want",
+    "en": "These are the gifts developers will actually want"
   },
   {
     "theme": "prog",
-    "date": "2026-11-23",
-    "url": "https://dev.to/alexandre_sechi_99b299b84/how-to-run-several-claude-code-agents-in-parallel-3pmo",
+    "date": "2026-11-24",
+    "url": "https://dev.to/malachinilsson7591/game-product-search-deduplication-retrieval-architecture-and-crawl-boundaries-534i",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "How to run several Claude Code agents in parallel",
-    "en": "How to run several Claude Code agents in parallel"
+    "fr": "Game Product Search Deduplication — Retrieval Architecture and Crawl Boundaries",
+    "en": "Game Product Search Deduplication — Retrieval Architecture and Crawl Boundaries"
   },
   {
     "theme": "prog",
-    "date": "2026-11-23",
-    "url": "https://dev.to/alexandre_sechi_99b299b84/claude-code-guis-in-2026-what-exists-and-who-each-one-suits-366d",
+    "date": "2026-11-24",
+    "url": "https://dev.to/eme_gug_0821b41b948be6516/your-ai-coding-agent-isnt-working-for-you-auditing-and-sandboxing-agent-network-egress-54o5",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Claude Code GUIs in 2026: what exists and who each one suits",
-    "en": "Claude Code GUIs in 2026: what exists and who each one suits"
+    "fr": "Your AI Coding Agent Isn't Working for You: Auditing and Sandboxing Agent Network Egress",
+    "en": "Your AI Coding Agent Isn't Working for You: Auditing and Sandboxing Agent Network Egress"
   },
   {
     "theme": "prog",
-    "date": "2026-11-23",
-    "url": "https://dev.to/rglodzinski/why-a-disk-cleaner-should-never-delete-on-its-own-fam",
+    "date": "2026-11-24",
+    "url": "https://dev.to/cnwphoto/i-had-fable-build-a-big-wave-surfing-sim-based-on-the-actual-nazare-wave-17oh",
     "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Why a disk cleaner should never delete on its own",
-    "en": "Why a disk cleaner should never delete on its own"
+    "fr": "I had Fable build a big wave surfing sim based on the actual Nazare wave.",
+    "en": "I had Fable build a big wave surfing sim based on the actual Nazare wave."
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-24",
+    "url": "https://dev.to/zakhar88/the-main-bottleneck-in-the-age-of-ai-coding-is-the-pull-request-4b1p",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "The main bottleneck in the age of AI coding is the pull request",
+    "en": "The main bottleneck in the age of AI coding is the pull request"
   },
   {
     "theme": "prog",
@@ -188,15 +198,5 @@
     "credit": null,
     "fr": "Building the Agent Host Protocol for sessions that continue across devices",
     "en": "Building the Agent Host Protocol for sessions that continue across devices"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-13",
-    "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
-    "src": "GitHub Blog",
-    "img": null,
-    "credit": null,
-    "fr": "GitHub availability report: October 2026",
-    "en": "GitHub availability report: October 2026"
   }
 ]
