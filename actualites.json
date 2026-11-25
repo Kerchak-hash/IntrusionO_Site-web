@@ -1,123 +1,173 @@
 [
   {
     "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+    "date": "2026-11-25",
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-    "en": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation"
+    "fr": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+    "en": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+    "date": "2026-11-25",
+    "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-    "en": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site"
+    "fr": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+    "en": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+    "date": "2026-11-25",
+    "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-    "en": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap"
+    "fr": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+    "en": "Credential Remediation Is Slow When You Don’t Know What Will Break"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+    "en": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation"
+  },
+  {
+    "theme": "maint",
+    "date": "2026-11-25",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+    "en": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "More Pentests Without More Pentesters: Where AI Safely Helps",
+    "en": "More Pentests Without More Pentesters: Where AI Safely Helps"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "InfraTrust warns of exploited supply chain flaws in network appliances",
+    "en": "InfraTrust warns of exploited supply chain flaws in network appliances"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+    "en": "Microsoft fixes Microsoft 365 bug blocking access to Office apps"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+    "en": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+    "en": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+    "en": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-25",
+    "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+    "en": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget"
   },
   {
     "theme": "prog",
-    "date": "2026-11-24",
-    "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-    "src": "The Hacker News",
+    "date": "2026-11-25",
+    "url": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+    "src": "GitHub Blog",
     "img": null,
     "credit": null,
-    "fr": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-    "en": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity"
+    "fr": "Art of play in the age of AI",
+    "en": "Art of play in the age of AI"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-    "src": "BleepingComputer",
+    "theme": "prog",
+    "date": "2026-11-25",
+    "url": "https://dev.to/guillejb97/how-an-ai-agent-can-check-who-is-behind-an-online-shop-before-it-pays-2aap",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-    "en": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof"
+    "fr": "How an AI agent can check who is behind an online shop before it pays",
+    "en": "How an AI agent can check who is behind an online shop before it pays"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-    "src": "BleepingComputer",
+    "theme": "prog",
+    "date": "2026-11-25",
+    "url": "https://dev.to/jeffdrizzy/i-built-two-open-agent-skills-for-claude-code-2mp5",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "European Commission confirms data theft in EU Academy breach",
-    "en": "European Commission confirms data theft in EU Academy breach"
+    "fr": "I built two open agent skills for Claude Code",
+    "en": "I built two open agent skills for Claude Code"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-    "src": "BleepingComputer",
+    "theme": "prog",
+    "date": "2026-11-25",
+    "url": "https://dev.to/ranchjiao0607/what-should-show-me-one-actually-show-25k8",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Hackers compromise Check Point Servers in 22 organizations",
-    "en": "Hackers compromise Check Point Servers in 22 organizations"
+    "fr": "What should “Show me one” actually show?",
+    "en": "What should “Show me one” actually show?"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-    "src": "BleepingComputer",
+    "theme": "prog",
+    "date": "2026-11-25",
+    "url": "https://dev.to/sudhir_kumar_f348b6afbb2c/online-forms-in-india-arent-going-to-stop-asking-for-tiny-files-any-time-soon-compress-pdfs-to-an-j7m",
+    "src": "DEV Community",
     "img": null,
     "credit": null,
-    "fr": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-    "en": "Police disrupt 57 illegal streaming services with 7.3 million visits"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
-    "en": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-    "en": "European Commission Uncovers Data Breach in Cyberattack Investigation"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-    "en": "Check Point Security Management Servers Hacked in AI-Assisted Campaign"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-24",
-    "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-    "en": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse"
+    "fr": "Online forms in India aren't going to stop asking for tiny files any time soon. Compress PDFs to an exact KB target, resize photos and signatures to the numbers in the notification, check that everything is still readable, and keep your personal documents",
+    "en": "Online forms in India aren't going to stop asking for tiny files any time soon. Compress PDFs to an exact KB target, resize photos and signatures to the numbers in the notification, check that everything is still readable, and keep your personal documents"
   },
   {
     "theme": "prog",
@@ -128,46 +178,6 @@
     "credit": null,
     "fr": "These are the gifts developers will actually want",
     "en": "These are the gifts developers will actually want"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-24",
-    "url": "https://dev.to/malachinilsson7591/game-product-search-deduplication-retrieval-architecture-and-crawl-boundaries-534i",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Game Product Search Deduplication — Retrieval Architecture and Crawl Boundaries",
-    "en": "Game Product Search Deduplication — Retrieval Architecture and Crawl Boundaries"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-24",
-    "url": "https://dev.to/eme_gug_0821b41b948be6516/your-ai-coding-agent-isnt-working-for-you-auditing-and-sandboxing-agent-network-egress-54o5",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Your AI Coding Agent Isn't Working for You: Auditing and Sandboxing Agent Network Egress",
-    "en": "Your AI Coding Agent Isn't Working for You: Auditing and Sandboxing Agent Network Egress"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-24",
-    "url": "https://dev.to/cnwphoto/i-had-fable-build-a-big-wave-surfing-sim-based-on-the-actual-nazare-wave-17oh",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "I had Fable build a big wave surfing sim based on the actual Nazare wave.",
-    "en": "I had Fable build a big wave surfing sim based on the actual Nazare wave."
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-24",
-    "url": "https://dev.to/zakhar88/the-main-bottleneck-in-the-age-of-ai-coding-is-the-pull-request-4b1p",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "The main bottleneck in the age of AI coding is the pull request",
-    "en": "The main bottleneck in the age of AI coding is the pull request"
   },
   {
     "theme": "prog",
@@ -188,15 +198,5 @@
     "credit": null,
     "fr": "Maintainers don’t need more AI bug reports. They need fixes.",
     "en": "Maintainers don’t need more AI bug reports. They need fixes."
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-17",
-    "url": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
-    "src": "GitHub Blog",
-    "img": null,
-    "credit": null,
-    "fr": "Building the Agent Host Protocol for sessions that continue across devices",
-    "en": "Building the Agent Host Protocol for sessions that continue across devices"
   }
 ]
