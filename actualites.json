@@ -1,163 +1,163 @@
 [
   {
     "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+    "date": "2026-11-27",
+    "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-    "en": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware"
+    "fr": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+    "en": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+    "date": "2026-11-27",
+    "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-    "en": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls"
+    "fr": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+    "en": "How to Keep Your Security Picture Current When Attackers Move at AI Speed"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+    "date": "2026-11-27",
+    "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-    "en": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach"
+    "fr": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+    "en": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+    "date": "2026-11-27",
+    "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
     "src": "The Hacker News",
     "img": null,
     "credit": null,
-    "fr": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-    "en": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation"
+    "fr": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+    "en": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+    "date": "2026-11-27",
+    "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Remus malware steals Gmail messages via fake Google Sheets extension",
-    "en": "Remus malware steals Gmail messages via fake Google Sheets extension"
+    "fr": "US Air Force cloud platform reportedly hacked in latest federal breach",
+    "en": "US Air Force cloud platform reportedly hacked in latest federal breach"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+    "date": "2026-11-27",
+    "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-    "en": "SYS010 malware abuses browser management to spy on Gmail, Outlook"
+    "fr": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+    "en": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs"
   },
   {
     "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
-    "en": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
-    "en": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
-    "en": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-26",
-    "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
-    "src": "SecurityWeek",
-    "img": null,
-    "credit": null,
-    "fr": "1Password Breach Exposes Customer Data, Internal Source Code",
-    "en": "1Password Breach Exposes Customer Data, Internal Source Code"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-26",
-    "url": "https://dev.to/vajgrtlabs/what-a-thanksgiving-week-delivery-shift-really-pays-after-miles-2ni6",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "What a Thanksgiving-Week Delivery Shift Really Pays After Miles",
-    "en": "What a Thanksgiving-Week Delivery Shift Really Pays After Miles"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-26",
-    "url": "https://dev.to/adminpackstudio/event-4776-ntlm-credential-validation-failed-a-read-first-error-code-source-workstation-and-5gga",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Event 4776 NTLM Credential Validation Failed: A Read-First Error Code, Source Workstation, and Account Triage",
-    "en": "Event 4776 NTLM Credential Validation Failed: A Read-First Error Code, Source Workstation, and Account Triage"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-26",
-    "url": "https://dev.to/phantomvps/ssh-hardening-checklist-for-a-fresh-ubuntu-2404-or-debian-12-vps-4k8k",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "SSH hardening checklist for a fresh Ubuntu 24.04 or Debian 12 VPS",
-    "en": "SSH hardening checklist for a fresh Ubuntu 24.04 or Debian 12 VPS"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-26",
-    "url": "https://dev.to/postman/stop-copying-box-credentials-into-every-ai-agent-eio",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Stop copying Box credentials into every AI agent",
-    "en": "Stop copying Box credentials into every AI agent"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-25",
-    "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+    "date": "2026-11-27",
+    "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-    "en": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks"
+    "fr": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+    "en": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026"
   },
   {
-    "theme": "cyber",
-    "date": "2026-11-25",
-    "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+    "theme": "maint",
+    "date": "2026-11-27",
+    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
     "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "1Password customer data stolen after employee GitHub account breach",
-    "en": "1Password customer data stolen after employee GitHub account breach"
+    "fr": "Microsoft removes WSUS server role in Windows Server 2028",
+    "en": "Microsoft removes WSUS server role in Windows Server 2028"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-27",
+    "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+    "en": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-27",
+    "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "100,000 Potentially Impacted by Colorado Data Breach",
+    "en": "100,000 Potentially Impacted by Colorado Data Breach"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-27",
+    "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "Hex Package Manager Warns of Potential Data Breach",
+    "en": "Hex Package Manager Warns of Potential Data Breach"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-27",
+    "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+    "src": "SecurityWeek",
+    "img": null,
+    "credit": null,
+    "fr": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+    "en": "SAP Confirms Cyberattack, Source Code Reportedly Compromised"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-27",
+    "url": "https://dev.to/fuloxdev/turn-every-pdf-on-a-web-page-into-text-for-rag-without-writing-a-crawler-1mhp",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Turn every PDF on a web page into text for RAG, without writing a crawler",
+    "en": "Turn every PDF on a web page into text for RAG, without writing a crawler"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-27",
+    "url": "https://dev.to/mango7777/oracle-november-2026-critical-security-patch-update-640-cves-and-java4shell-1na2",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Oracle November 2026 Critical Security Patch Update: 640 CVEs and Java4Shell",
+    "en": "Oracle November 2026 Critical Security Patch Update: 640 CVEs and Java4Shell"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-27",
+    "url": "https://dev.to/aheadkit/a-handover-that-only-works-warm-is-not-a-handover-227d",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "A Handover That Only Works Warm Is Not a Handover",
+    "en": "A Handover That Only Works Warm Is Not a Handover"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-27",
+    "url": "https://dev.to/pedroven/teachback-learning-while-coding-with-ai-165g",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Teachback: learning while coding with AI",
+    "en": "Teachback: learning while coding with AI"
   },
   {
     "theme": "prog",
