@@ -1,6 +1,66 @@
 [
   {
     "theme": "cyber",
+    "date": "2026-11-28",
+    "url": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+    "en": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-28",
+    "url": "https://dev.to/joho_todai/ai-keeps-finding-bugs-in-code-nobody-uses-linux-removes-8931-lines-from-its-vme-driver-12h8",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "AI Keeps Finding Bugs in Code Nobody Uses: Linux Removes 8,931 Lines From Its VME Driver",
+    "en": "AI Keeps Finding Bugs in Code Nobody Uses: Linux Removes 8,931 Lines From Its VME Driver"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-28",
+    "url": "https://dev.to/clara_sutton/commercial-office-floor-plan-ibc-table-10045-occupancy-load-engine-in-typescript-39o0",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "Commercial Office Floor Plan & IBC Table 1004.5 Occupancy Load Engine in TypeScript",
+    "en": "Commercial Office Floor Plan & IBC Table 1004.5 Occupancy Load Engine in TypeScript"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-28",
+    "url": "https://dev.to/vidlify/how-to-stop-other-websites-from-embedding-your-videos-3ah7",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "How to stop other websites from embedding your videos",
+    "en": "How to stop other websites from embedding your videos"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-28",
+    "url": "https://dev.to/islam_sakib_1504/woocommerce-checkout-not-working-the-eight-things-i-check-first-21h1",
+    "src": "DEV Community",
+    "img": null,
+    "credit": null,
+    "fr": "WooCommerce checkout not working? The eight things I check first",
+    "en": "WooCommerce checkout not working? The eight things I check first"
+  },
+  {
+    "theme": "cyber",
+    "date": "2026-11-27",
+    "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+    "src": "The Hacker News",
+    "img": null,
+    "credit": null,
+    "fr": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+    "en": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign"
+  },
+  {
+    "theme": "cyber",
     "date": "2026-11-27",
     "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
     "src": "The Hacker News",
@@ -22,22 +82,32 @@
   {
     "theme": "cyber",
     "date": "2026-11-27",
-    "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
-    "src": "The Hacker News",
+    "url": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+    "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
-    "en": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware"
+    "fr": "pCloud confirms password manager hack after suspicious login alerts",
+    "en": "pCloud confirms password manager hack after suspicious login alerts"
   },
   {
     "theme": "cyber",
     "date": "2026-11-27",
-    "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
-    "src": "The Hacker News",
+    "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+    "src": "BleepingComputer",
     "img": null,
     "credit": null,
-    "fr": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
-    "en": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators"
+    "fr": "New Boston Scientific data breach exposes personal, medical info",
+    "en": "New Boston Scientific data breach exposes personal, medical info"
+  },
+  {
+    "theme": "prog",
+    "date": "2026-11-27",
+    "url": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+    "src": "BleepingComputer",
+    "img": null,
+    "credit": null,
+    "fr": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+    "en": "Unpatched Cacti zero-day with public PoC gives remote code execution"
   },
   {
     "theme": "cyber",
@@ -48,36 +118,6 @@
     "credit": null,
     "fr": "US Air Force cloud platform reportedly hacked in latest federal breach",
     "en": "US Air Force cloud platform reportedly hacked in latest federal breach"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-27",
-    "url": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
-    "en": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-27",
-    "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
-    "en": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026"
-  },
-  {
-    "theme": "maint",
-    "date": "2026-11-27",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-    "src": "BleepingComputer",
-    "img": null,
-    "credit": null,
-    "fr": "Microsoft removes WSUS server role in Windows Server 2028",
-    "en": "Microsoft removes WSUS server role in Windows Server 2028"
   },
   {
     "theme": "cyber",
@@ -118,46 +158,6 @@
     "credit": null,
     "fr": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
     "en": "SAP Confirms Cyberattack, Source Code Reportedly Compromised"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-27",
-    "url": "https://dev.to/fuloxdev/turn-every-pdf-on-a-web-page-into-text-for-rag-without-writing-a-crawler-1mhp",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Turn every PDF on a web page into text for RAG, without writing a crawler",
-    "en": "Turn every PDF on a web page into text for RAG, without writing a crawler"
-  },
-  {
-    "theme": "cyber",
-    "date": "2026-11-27",
-    "url": "https://dev.to/mango7777/oracle-november-2026-critical-security-patch-update-640-cves-and-java4shell-1na2",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Oracle November 2026 Critical Security Patch Update: 640 CVEs and Java4Shell",
-    "en": "Oracle November 2026 Critical Security Patch Update: 640 CVEs and Java4Shell"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-27",
-    "url": "https://dev.to/aheadkit/a-handover-that-only-works-warm-is-not-a-handover-227d",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "A Handover That Only Works Warm Is Not a Handover",
-    "en": "A Handover That Only Works Warm Is Not a Handover"
-  },
-  {
-    "theme": "prog",
-    "date": "2026-11-27",
-    "url": "https://dev.to/pedroven/teachback-learning-while-coding-with-ai-165g",
-    "src": "DEV Community",
-    "img": null,
-    "credit": null,
-    "fr": "Teachback: learning while coding with AI",
-    "en": "Teachback: learning while coding with AI"
   },
   {
     "theme": "prog",
